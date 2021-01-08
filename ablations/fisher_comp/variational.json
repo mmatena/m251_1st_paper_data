@@ -1498,5 +1498,380 @@
       }
     },
     "weighting": 0.92
+  },
+  {
+    "task": "rte",
+    "other_task": "mnli",
+    "trial_index": 0,
+    "hyperparams": {
+      "target_fisher_examples": 1024,
+      "donor_fisher_examples": 392702
+    },
+    "original_score": {
+      "rte": {
+        "accuracy": 62.8158844765343
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 65.34296028880865
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 37.90613718411552
+      }
+    },
+    "weighting": 0.92
+  },
+  {
+    "task": "rte",
+    "other_task": "mnli",
+    "trial_index": 1,
+    "hyperparams": {
+      "target_fisher_examples": 1024,
+      "donor_fisher_examples": 392702
+    },
+    "original_score": {
+      "rte": {
+        "accuracy": 57.761732851985556
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 62.093862815884485
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 46.931407942238266
+      }
+    },
+    "weighting": 0.84
+  },
+  {
+    "task": "rte",
+    "other_task": "mnli",
+    "trial_index": 1,
+    "hyperparams": {
+      "target_fisher_examples": 256,
+      "donor_fisher_examples": 392702
+    },
+    "original_score": {
+      "rte": {
+        "accuracy": 57.761732851985556
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 62.093862815884485
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 46.931407942238266
+      }
+    },
+    "weighting": 0.86
+  },
+  {
+    "task": "rte",
+    "other_task": "mnli",
+    "trial_index": 0,
+    "hyperparams": {
+      "target_fisher_examples": 2490,
+      "donor_fisher_examples": 392702
+    },
+    "original_score": {
+      "rte": {
+        "accuracy": 62.8158844765343
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 65.34296028880865
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 37.90613718411552
+      }
+    },
+    "weighting": 0.92
+  },
+  {
+    "task": "rte",
+    "other_task": "mnli",
+    "trial_index": 1,
+    "hyperparams": {
+      "target_fisher_examples": 2490,
+      "donor_fisher_examples": 392702
+    },
+    "original_score": {
+      "rte": {
+        "accuracy": 57.761732851985556
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 62.093862815884485
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 46.931407942238266
+      }
+    },
+    "weighting": 0.84
+  },
+  {
+    "task": "rte",
+    "other_task": "mnli",
+    "trial_index": 2,
+    "hyperparams": {
+      "target_fisher_examples": 256,
+      "donor_fisher_examples": 392702
+    },
+    "original_score": {
+      "rte": {
+        "accuracy": 61.01083032490975
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 61.01083032490975
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 46.57039711191336
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "rte",
+    "other_task": "mnli",
+    "trial_index": 0,
+    "hyperparams": {
+      "target_fisher_examples": 256,
+      "donor_fisher_examples": 392702
+    },
+    "original_score": {
+      "rte": {
+        "accuracy": 62.8158844765343
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 65.34296028880865
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 37.90613718411552
+      }
+    },
+    "weighting": 0.92
+  },
+  {
+    "task": "rte",
+    "other_task": "mnli",
+    "trial_index": 2,
+    "hyperparams": {
+      "target_fisher_examples": 2490,
+      "donor_fisher_examples": 392702
+    },
+    "original_score": {
+      "rte": {
+        "accuracy": 61.01083032490975
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 61.01083032490975
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 46.57039711191336
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "rte",
+    "other_task": "mnli",
+    "trial_index": 2,
+    "hyperparams": {
+      "target_fisher_examples": 1024,
+      "donor_fisher_examples": 392702
+    },
+    "original_score": {
+      "rte": {
+        "accuracy": 61.01083032490975
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 61.01083032490975
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 46.57039711191336
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "rte",
+    "other_task": "mnli",
+    "trial_index": 3,
+    "hyperparams": {
+      "target_fisher_examples": 256,
+      "donor_fisher_examples": 392702
+    },
+    "original_score": {
+      "rte": {
+        "accuracy": 59.92779783393502
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 63.1768953068592
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 51.624548736462096
+      }
+    },
+    "weighting": 0.88
+  },
+  {
+    "task": "rte",
+    "other_task": "mnli",
+    "trial_index": 3,
+    "hyperparams": {
+      "target_fisher_examples": 1024,
+      "donor_fisher_examples": 392702
+    },
+    "original_score": {
+      "rte": {
+        "accuracy": 59.92779783393502
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 63.1768953068592
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 51.624548736462096
+      }
+    },
+    "weighting": 0.94
+  },
+  {
+    "task": "rte",
+    "other_task": "mnli",
+    "trial_index": 4,
+    "hyperparams": {
+      "target_fisher_examples": 256,
+      "donor_fisher_examples": 392702
+    },
+    "original_score": {
+      "rte": {
+        "accuracy": 61.01083032490975
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 62.454873646209386
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 39.35018050541516
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "task": "rte",
+    "other_task": "mnli",
+    "trial_index": 3,
+    "hyperparams": {
+      "target_fisher_examples": 2490,
+      "donor_fisher_examples": 392702
+    },
+    "original_score": {
+      "rte": {
+        "accuracy": 59.92779783393502
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 63.1768953068592
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 51.624548736462096
+      }
+    },
+    "weighting": 0.94
+  },
+  {
+    "task": "rte",
+    "other_task": "mnli",
+    "trial_index": 4,
+    "hyperparams": {
+      "target_fisher_examples": 1024,
+      "donor_fisher_examples": 392702
+    },
+    "original_score": {
+      "rte": {
+        "accuracy": 61.01083032490975
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 62.454873646209386
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 39.35018050541516
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "task": "rte",
+    "other_task": "mnli",
+    "trial_index": 4,
+    "hyperparams": {
+      "target_fisher_examples": 2490,
+      "donor_fisher_examples": 392702
+    },
+    "original_score": {
+      "rte": {
+        "accuracy": 61.01083032490975
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 62.454873646209386
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 39.35018050541516
+      }
+    },
+    "weighting": 0.98
   }
 ]
