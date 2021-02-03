@@ -1,0 +1,98 @@
+[
+  {
+    "target_task": "qqp",
+    "donor_task": "rte",
+    "trial_index": 0,
+    "original_score": {
+      "qqp": {
+        "f1": 87.2258064516129,
+        "accuracy": 90.33203125
+      }
+    },
+    "merged_score": {
+      "qqp": {
+        "f1": 87.62026940346375,
+        "accuracy": 90.576171875
+      }
+    },
+    "donor_body_score": {
+      "qqp": {
+        "f1": 0.0,
+        "accuracy": 63.4765625
+      }
+    },
+    "weighting": 0.9
+  },
+  {
+    "target_task": "mnli",
+    "donor_task": "rte",
+    "trial_index": 0,
+    "original_score": {
+      "mnli_matched": {
+        "accuracy": 83.30078125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.033203125
+      }
+    },
+    "merged_score": {
+      "mnli_matched": {
+        "accuracy": 83.49609375
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.27734375
+      }
+    },
+    "donor_body_score": {
+      "mnli_matched": {
+        "accuracy": 33.59375
+      },
+      "mnli_mismatched": {
+        "accuracy": 33.935546875
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "qnli",
+    "donor_task": "rte",
+    "trial_index": 0,
+    "original_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "merged_score": {
+      "qnli": {
+        "accuracy": 90.966796875
+      }
+    },
+    "donor_body_score": {
+      "qnli": {
+        "accuracy": 50.634765625
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "sst2",
+    "donor_task": "rte",
+    "trial_index": 0,
+    "original_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "merged_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "donor_body_score": {
+      "sst2": {
+        "accuracy": 49.08256880733945
+      }
+    },
+    "weighting": 0.98
+  }
+]

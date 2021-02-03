@@ -1,0 +1,362 @@
+[
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "acl_arc"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 73.7383499821918
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 75.36475199518678
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 11.368015414258188
+      }
+    },
+    "weighting": 0.9333333333333333
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "sci_erc"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 85.71985586624606
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 85.83908674036593
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 1.7119244391971662
+      }
+    },
+    "weighting": 0.9733333333333334
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "sci_erc"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 87.99917960863354
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 88.0157954255307
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 1.7119244391971662
+      }
+    },
+    "weighting": 0.9866666666666667
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "acl_arc"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 73.72341008704645
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 74.4498312145371
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 11.368015414258188
+      }
+    },
+    "weighting": 0.9466666666666667
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "chemprot"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 83.59375
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 84.521484375
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 10.64453125
+      }
+    },
+    "weighting": 0.72
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "chemprot"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 83.49609375
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 84.912109375
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 10.64453125
+      }
+    },
+    "weighting": 0.7333333333333333
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "acl_arc"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 70.1432022084196
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 72.25741737936859
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 11.368015414258188
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "sci_erc"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 85.29629953425962
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 85.63276935366363
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 1.7119244391971662
+      }
+    },
+    "weighting": 0.9333333333333333
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "acl_arc"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 78.05027324791834
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 78.84722140199611
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 11.368015414258188
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "chemprot"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 83.203125
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 83.544921875
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 10.64453125
+      }
+    },
+    "weighting": 0.8666666666666667
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "acl_arc"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 71.68478561449322
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 71.68478561449322
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 11.368015414258188
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "sci_erc"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 85.09279114741373
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 85.26968246360916
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 1.7119244391971662
+      }
+    },
+    "weighting": 0.9733333333333334
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "sci_erc"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 87.12737011470432
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 87.83781201555347
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 1.7119244391971662
+      }
+    },
+    "weighting": 0.8
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "chemprot"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 84.08203125
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 84.375
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 10.64453125
+      }
+    },
+    "weighting": 0.8533333333333334
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "chemprot"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 82.91015625
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 83.30078125
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 10.64453125
+      }
+    },
+    "weighting": 0.8933333333333333
+  }
+]

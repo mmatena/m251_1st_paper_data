@@ -1,0 +1,420 @@
+[
+  {
+    "target_task": "rte",
+    "donor_task": "rte",
+    "trial_index": null,
+    "original_score": {
+      "rte": {
+        "accuracy": 85.5595667870036
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 88.8086642599278
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.32,
+    "target_ckpt": "68a564e6cd464430a734bb7dc5aeda6d"
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "rte",
+    "trial_index": null,
+    "original_score": {
+      "rte": {
+        "accuracy": 85.5595667870036
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 88.4476534296029
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.56,
+    "target_ckpt": "68a564e6cd464430a734bb7dc5aeda6d"
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "rte",
+    "trial_index": null,
+    "original_score": {
+      "rte": {
+        "accuracy": 85.5595667870036
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 88.4476534296029
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.72,
+    "target_ckpt": "68a564e6cd464430a734bb7dc5aeda6d"
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "rte",
+    "trial_index": null,
+    "original_score": {
+      "rte": {
+        "accuracy": 86.64259927797833
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 89.16967509025271
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.08,
+    "target_ckpt": "9dd5abad21b94c8e87018aee19099358"
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "rte",
+    "trial_index": null,
+    "original_score": {
+      "rte": {
+        "accuracy": 86.64259927797833
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 88.4476534296029
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.04,
+    "target_ckpt": "9dd5abad21b94c8e87018aee19099358"
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "rte",
+    "trial_index": null,
+    "original_score": {
+      "rte": {
+        "accuracy": 86.64259927797833
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 88.08664259927798
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.48,
+    "target_ckpt": "9dd5abad21b94c8e87018aee19099358"
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "rte",
+    "trial_index": null,
+    "original_score": {
+      "rte": {
+        "accuracy": 86.64259927797833
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 88.8086642599278
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.18,
+    "target_ckpt": "9dd5abad21b94c8e87018aee19099358"
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "rte",
+    "trial_index": null,
+    "original_score": {
+      "rte": {
+        "accuracy": 88.8086642599278
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 90.25270758122743
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.64,
+    "target_ckpt": "9be1695ab5794a8caf2d4f284aae4fce"
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "rte",
+    "trial_index": null,
+    "original_score": {
+      "rte": {
+        "accuracy": 88.8086642599278
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 89.53068592057761
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.68,
+    "target_ckpt": "9be1695ab5794a8caf2d4f284aae4fce"
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "rte",
+    "trial_index": null,
+    "original_score": {
+      "rte": {
+        "accuracy": 88.8086642599278
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 88.8086642599278
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 1.0,
+    "target_ckpt": "9be1695ab5794a8caf2d4f284aae4fce"
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "rte",
+    "trial_index": null,
+    "original_score": {
+      "rte": {
+        "accuracy": 88.8086642599278
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 89.53068592057761
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.58,
+    "target_ckpt": "9be1695ab5794a8caf2d4f284aae4fce"
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "rte",
+    "trial_index": null,
+    "original_score": {
+      "rte": {
+        "accuracy": 84.47653429602889
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 88.08664259927798
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.36,
+    "target_ckpt": "f042e66028794530a74e873ccced1d43"
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "rte",
+    "trial_index": null,
+    "original_score": {
+      "rte": {
+        "accuracy": 84.47653429602889
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 88.4476534296029
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.22,
+    "target_ckpt": "f042e66028794530a74e873ccced1d43"
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "rte",
+    "trial_index": null,
+    "original_score": {
+      "rte": {
+        "accuracy": 84.47653429602889
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 88.4476534296029
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.14,
+    "target_ckpt": "f042e66028794530a74e873ccced1d43"
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "rte",
+    "trial_index": null,
+    "original_score": {
+      "rte": {
+        "accuracy": 84.47653429602889
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 88.08664259927798
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.08,
+    "target_ckpt": "f042e66028794530a74e873ccced1d43"
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "rte",
+    "trial_index": null,
+    "original_score": {
+      "rte": {
+        "accuracy": 86.64259927797833
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 89.53068592057761
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.26,
+    "target_ckpt": "057191a35dde466f91f7e508de9df1f9"
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "rte",
+    "trial_index": null,
+    "original_score": {
+      "rte": {
+        "accuracy": 86.64259927797833
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 88.4476534296029
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.86,
+    "target_ckpt": "057191a35dde466f91f7e508de9df1f9"
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "rte",
+    "trial_index": null,
+    "original_score": {
+      "rte": {
+        "accuracy": 86.64259927797833
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 88.4476534296029
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.12,
+    "target_ckpt": "057191a35dde466f91f7e508de9df1f9"
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "rte",
+    "trial_index": null,
+    "original_score": {
+      "rte": {
+        "accuracy": 86.64259927797833
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 87.36462093862815
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.96,
+    "target_ckpt": "057191a35dde466f91f7e508de9df1f9"
+  }
+]

@@ -1,0 +1,5339 @@
+[
+  {
+    "target_task": "qnli",
+    "donor_task": "mnli",
+    "trial_index": 0,
+    "original_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "merged_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "donor_body_score": {
+      "qnli": {
+        "accuracy": 50.537109375
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "mnli",
+    "trial_index": 0,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 53.11983410233877
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 53.20268278817644
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "mnli",
+    "trial_index": 1,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 56.831496658025735
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 56.831496658025735
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "mnli",
+    "trial_index": 4,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 54.60878038039295
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 54.60878038039295
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "sst2",
+    "donor_task": "mnli",
+    "trial_index": 0,
+    "original_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "merged_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "donor_body_score": {
+      "sst2": {
+        "accuracy": 49.08256880733945
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "qqp",
+    "donor_task": "mnli",
+    "trial_index": 0,
+    "original_score": {
+      "qqp": {
+        "f1": 87.2258064516129,
+        "accuracy": 90.33203125
+      }
+    },
+    "merged_score": {
+      "qqp": {
+        "f1": 87.45247148288973,
+        "accuracy": 90.33203125
+      }
+    },
+    "donor_body_score": {
+      "qqp": {
+        "f1": 0.0,
+        "accuracy": 63.37890625
+      }
+    },
+    "weighting": 0.9
+  },
+  {
+    "target_task": "mnli",
+    "donor_task": "qqp",
+    "trial_index": 0,
+    "original_score": {
+      "mnli_matched": {
+        "accuracy": 83.30078125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.033203125
+      }
+    },
+    "merged_score": {
+      "mnli_matched": {
+        "accuracy": 83.447265625
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.1796875
+      }
+    },
+    "donor_body_score": {
+      "mnli_matched": {
+        "accuracy": 33.740234375
+      },
+      "mnli_mismatched": {
+        "accuracy": 33.984375
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "mnli",
+    "donor_task": "qnli",
+    "trial_index": 0,
+    "original_score": {
+      "mnli_matched": {
+        "accuracy": 83.30078125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.033203125
+      }
+    },
+    "merged_score": {
+      "mnli_matched": {
+        "accuracy": 83.642578125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.1796875
+      }
+    },
+    "donor_body_score": {
+      "mnli_matched": {
+        "accuracy": 33.837890625
+      },
+      "mnli_mismatched": {
+        "accuracy": 33.837890625
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "target_task": "mnli",
+    "donor_task": "cola",
+    "trial_index": 4,
+    "original_score": {
+      "mnli_matched": {
+        "accuracy": 83.30078125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.033203125
+      }
+    },
+    "merged_score": {
+      "mnli_matched": {
+        "accuracy": 83.49609375
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.326171875
+      }
+    },
+    "donor_body_score": {
+      "mnli_matched": {
+        "accuracy": 33.59375
+      },
+      "mnli_mismatched": {
+        "accuracy": 33.935546875
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "target_task": "mnli",
+    "donor_task": "cola",
+    "trial_index": 1,
+    "original_score": {
+      "mnli_matched": {
+        "accuracy": 83.30078125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.033203125
+      }
+    },
+    "merged_score": {
+      "mnli_matched": {
+        "accuracy": 83.642578125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.228515625
+      }
+    },
+    "donor_body_score": {
+      "mnli_matched": {
+        "accuracy": 33.59375
+      },
+      "mnli_mismatched": {
+        "accuracy": 33.935546875
+      }
+    },
+    "weighting": 0.92
+  },
+  {
+    "target_task": "mnli",
+    "donor_task": "cola",
+    "trial_index": 0,
+    "original_score": {
+      "mnli_matched": {
+        "accuracy": 83.30078125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.033203125
+      }
+    },
+    "merged_score": {
+      "mnli_matched": {
+        "accuracy": 83.544921875
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.27734375
+      }
+    },
+    "donor_body_score": {
+      "mnli_matched": {
+        "accuracy": 33.59375
+      },
+      "mnli_mismatched": {
+        "accuracy": 33.935546875
+      }
+    },
+    "weighting": 0.94
+  },
+  {
+    "target_task": "mnli",
+    "donor_task": "sst2",
+    "trial_index": 0,
+    "original_score": {
+      "mnli_matched": {
+        "accuracy": 83.30078125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.033203125
+      }
+    },
+    "merged_score": {
+      "mnli_matched": {
+        "accuracy": 83.59375
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.130859375
+      }
+    },
+    "donor_body_score": {
+      "mnli_matched": {
+        "accuracy": 33.59375
+      },
+      "mnli_mismatched": {
+        "accuracy": 33.935546875
+      }
+    },
+    "weighting": 0.92
+  },
+  {
+    "target_task": "mnli",
+    "donor_task": "cola",
+    "trial_index": 3,
+    "original_score": {
+      "mnli_matched": {
+        "accuracy": 83.30078125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.033203125
+      }
+    },
+    "merged_score": {
+      "mnli_matched": {
+        "accuracy": 83.447265625
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.228515625
+      }
+    },
+    "donor_body_score": {
+      "mnli_matched": {
+        "accuracy": 33.59375
+      },
+      "mnli_mismatched": {
+        "accuracy": 33.935546875
+      }
+    },
+    "weighting": 0.94
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "mnli",
+    "trial_index": 2,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 58.10381850664859
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 58.10381850664859
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "mnli",
+    "donor_task": "cola",
+    "trial_index": 2,
+    "original_score": {
+      "mnli_matched": {
+        "accuracy": 83.30078125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.033203125
+      }
+    },
+    "merged_score": {
+      "mnli_matched": {
+        "accuracy": 83.544921875
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.375
+      }
+    },
+    "donor_body_score": {
+      "mnli_matched": {
+        "accuracy": 33.59375
+      },
+      "mnli_mismatched": {
+        "accuracy": 33.935546875
+      }
+    },
+    "weighting": 0.94
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "mnli",
+    "trial_index": 0,
+    "original_score": {
+      "mrpc": {
+        "f1": 86.97183098591549,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 87.17047451669596,
+        "accuracy": 82.1078431372549
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 0.7117437722419928,
+        "accuracy": 31.61764705882353
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "mnli",
+    "trial_index": 1,
+    "original_score": {
+      "mrpc": {
+        "f1": 87.00361010830325,
+        "accuracy": 82.35294117647058
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 88.65979381443299,
+        "accuracy": 83.82352941176471
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 2.112676056338028,
+        "accuracy": 31.862745098039213
+      }
+    },
+    "weighting": 0.9
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "mnli",
+    "trial_index": 2,
+    "original_score": {
+      "mrpc": {
+        "f1": 87.45762711864407,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 87.45762711864407,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 0.7117437722419928,
+        "accuracy": 31.61764705882353
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "mnli",
+    "trial_index": 1,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 87.33201660188489,
+        "spearman_corrcoef": 86.6466895818426
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 87.52033322922136,
+        "spearman_corrcoef": 86.84306426093623
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 5.527016550650591,
+        "spearman_corrcoef": 5.403309181297046
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "mnli",
+    "donor_task": "mrpc",
+    "trial_index": 0,
+    "original_score": {
+      "mnli_matched": {
+        "accuracy": 83.30078125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.033203125
+      }
+    },
+    "merged_score": {
+      "mnli_matched": {
+        "accuracy": 83.49609375
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.1796875
+      }
+    },
+    "donor_body_score": {
+      "mnli_matched": {
+        "accuracy": 33.49609375
+      },
+      "mnli_mismatched": {
+        "accuracy": 34.130859375
+      }
+    },
+    "weighting": 0.9
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "mnli",
+    "trial_index": 0,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 86.2620775427326,
+        "spearman_corrcoef": 85.78916237896371
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 86.2620775427326,
+        "spearman_corrcoef": 85.78916237896371
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 5.225230939479447,
+        "spearman_corrcoef": 5.403309181297046
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "mnli",
+    "donor_task": "mrpc",
+    "trial_index": 1,
+    "original_score": {
+      "mnli_matched": {
+        "accuracy": 83.30078125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.033203125
+      }
+    },
+    "merged_score": {
+      "mnli_matched": {
+        "accuracy": 83.544921875
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.228515625
+      }
+    },
+    "donor_body_score": {
+      "mnli_matched": {
+        "accuracy": 33.642578125
+      },
+      "mnli_mismatched": {
+        "accuracy": 34.033203125
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "target_task": "mnli",
+    "donor_task": "stsb",
+    "trial_index": 1,
+    "original_score": {
+      "mnli_matched": {
+        "accuracy": 83.30078125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.033203125
+      }
+    },
+    "merged_score": {
+      "mnli_matched": {
+        "accuracy": 83.30078125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.27734375
+      }
+    },
+    "donor_body_score": {
+      "mnli_matched": {
+        "accuracy": 33.69140625
+      },
+      "mnli_mismatched": {
+        "accuracy": 33.984375
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "mnli",
+    "donor_task": "mrpc",
+    "trial_index": 2,
+    "original_score": {
+      "mnli_matched": {
+        "accuracy": 83.30078125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.033203125
+      }
+    },
+    "merged_score": {
+      "mnli_matched": {
+        "accuracy": 83.544921875
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.27734375
+      }
+    },
+    "donor_body_score": {
+      "mnli_matched": {
+        "accuracy": 33.740234375
+      },
+      "mnli_mismatched": {
+        "accuracy": 33.88671875
+      }
+    },
+    "weighting": 0.94
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "mnli",
+    "trial_index": 2,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 85.55687160801008,
+        "spearman_corrcoef": 85.2284537815866
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 85.55687160801008,
+        "spearman_corrcoef": 85.2284537815866
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 5.468965119915017,
+        "spearman_corrcoef": 5.403974156837579
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "mnli",
+    "donor_task": "stsb",
+    "trial_index": 0,
+    "original_score": {
+      "mnli_matched": {
+        "accuracy": 83.30078125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.033203125
+      }
+    },
+    "merged_score": {
+      "mnli_matched": {
+        "accuracy": 83.30078125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.08203125
+      }
+    },
+    "donor_body_score": {
+      "mnli_matched": {
+        "accuracy": 33.7890625
+      },
+      "mnli_mismatched": {
+        "accuracy": 34.033203125
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "mnli",
+    "donor_task": "rte",
+    "trial_index": 1,
+    "original_score": {
+      "mnli_matched": {
+        "accuracy": 83.30078125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.033203125
+      }
+    },
+    "merged_score": {
+      "mnli_matched": {
+        "accuracy": 83.349609375
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.228515625
+      }
+    },
+    "donor_body_score": {
+      "mnli_matched": {
+        "accuracy": 33.642578125
+      },
+      "mnli_mismatched": {
+        "accuracy": 34.033203125
+      }
+    },
+    "weighting": 0.94
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "mnli",
+    "trial_index": 1,
+    "original_score": {
+      "rte": {
+        "accuracy": 65.34296028880865
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 75.81227436823104
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 53.068592057761734
+      }
+    },
+    "weighting": 0.42
+  },
+  {
+    "target_task": "mnli",
+    "donor_task": "stsb",
+    "trial_index": 2,
+    "original_score": {
+      "mnli_matched": {
+        "accuracy": 83.30078125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.033203125
+      }
+    },
+    "merged_score": {
+      "mnli_matched": {
+        "accuracy": 83.349609375
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.1796875
+      }
+    },
+    "donor_body_score": {
+      "mnli_matched": {
+        "accuracy": 33.69140625
+      },
+      "mnli_mismatched": {
+        "accuracy": 34.033203125
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "mnli",
+    "trial_index": 3,
+    "original_score": {
+      "mrpc": {
+        "f1": 87.58389261744966,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 87.81302170283807,
+        "accuracy": 82.1078431372549
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 1.408450704225352,
+        "accuracy": 31.372549019607842
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "mnli",
+    "trial_index": 3,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 87.27752126860217,
+        "spearman_corrcoef": 86.74186499367926
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 87.27752126860217,
+        "spearman_corrcoef": 86.74186499367926
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 4.3848158868492675,
+        "spearman_corrcoef": 5.401267164798188
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "mnli",
+    "trial_index": 3,
+    "original_score": {
+      "rte": {
+        "accuracy": 65.70397111913357
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 71.84115523465704
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 53.068592057761734
+      }
+    },
+    "weighting": 0.58
+  },
+  {
+    "target_task": "mnli",
+    "donor_task": "stsb",
+    "trial_index": 3,
+    "original_score": {
+      "mnli_matched": {
+        "accuracy": 83.30078125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.033203125
+      }
+    },
+    "merged_score": {
+      "mnli_matched": {
+        "accuracy": 83.447265625
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.1796875
+      }
+    },
+    "donor_body_score": {
+      "mnli_matched": {
+        "accuracy": 33.837890625
+      },
+      "mnli_mismatched": {
+        "accuracy": 33.935546875
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "mnli",
+    "trial_index": 2,
+    "original_score": {
+      "rte": {
+        "accuracy": 63.537906137184116
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 77.9783393501805
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.6
+  },
+  {
+    "target_task": "mnli",
+    "donor_task": "mrpc",
+    "trial_index": 3,
+    "original_score": {
+      "mnli_matched": {
+        "accuracy": 83.30078125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.033203125
+      }
+    },
+    "merged_score": {
+      "mnli_matched": {
+        "accuracy": 83.447265625
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.1796875
+      }
+    },
+    "donor_body_score": {
+      "mnli_matched": {
+        "accuracy": 33.69140625
+      },
+      "mnli_mismatched": {
+        "accuracy": 33.984375
+      }
+    },
+    "weighting": 0.94
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "mnli",
+    "trial_index": 0,
+    "original_score": {
+      "rte": {
+        "accuracy": 62.8158844765343
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 76.53429602888086
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 53.068592057761734
+      }
+    },
+    "weighting": 0.34
+  },
+  {
+    "target_task": "mnli",
+    "donor_task": "rte",
+    "trial_index": 2,
+    "original_score": {
+      "mnli_matched": {
+        "accuracy": 83.30078125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.033203125
+      }
+    },
+    "merged_score": {
+      "mnli_matched": {
+        "accuracy": 83.69140625
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.130859375
+      }
+    },
+    "donor_body_score": {
+      "mnli_matched": {
+        "accuracy": 33.642578125
+      },
+      "mnli_mismatched": {
+        "accuracy": 33.88671875
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "target_task": "mnli",
+    "donor_task": "stsb",
+    "trial_index": 4,
+    "original_score": {
+      "mnli_matched": {
+        "accuracy": 83.30078125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.033203125
+      }
+    },
+    "merged_score": {
+      "mnli_matched": {
+        "accuracy": 83.30078125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.228515625
+      }
+    },
+    "donor_body_score": {
+      "mnli_matched": {
+        "accuracy": 33.69140625
+      },
+      "mnli_mismatched": {
+        "accuracy": 33.984375
+      }
+    },
+    "weighting": 0.92
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "mnli",
+    "trial_index": 4,
+    "original_score": {
+      "mrpc": {
+        "f1": 87.12871287128714,
+        "accuracy": 80.88235294117648
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 87.77219430485762,
+        "accuracy": 82.1078431372549
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 1.4134275618374559,
+        "accuracy": 31.61764705882353
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "mnli",
+    "trial_index": 4,
+    "original_score": {
+      "rte": {
+        "accuracy": 61.01083032490975
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 63.898916967509024
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.94
+  },
+  {
+    "target_task": "mnli",
+    "donor_task": "rte",
+    "trial_index": 0,
+    "original_score": {
+      "mnli_matched": {
+        "accuracy": 83.30078125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.033203125
+      }
+    },
+    "merged_score": {
+      "mnli_matched": {
+        "accuracy": 83.49609375
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.228515625
+      }
+    },
+    "donor_body_score": {
+      "mnli_matched": {
+        "accuracy": 33.59375
+      },
+      "mnli_mismatched": {
+        "accuracy": 33.984375
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "mnli",
+    "trial_index": 4,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 85.10036990495374,
+        "spearman_corrcoef": 84.66275567672378
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 85.10036990495374,
+        "spearman_corrcoef": 84.66275567672378
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 3.0095950005214265,
+        "spearman_corrcoef": 5.400911131634601
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "mnli",
+    "donor_task": "rte",
+    "trial_index": 3,
+    "original_score": {
+      "mnli_matched": {
+        "accuracy": 83.30078125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.033203125
+      }
+    },
+    "merged_score": {
+      "mnli_matched": {
+        "accuracy": 83.642578125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.326171875
+      }
+    },
+    "donor_body_score": {
+      "mnli_matched": {
+        "accuracy": 33.59375
+      },
+      "mnli_mismatched": {
+        "accuracy": 33.984375
+      }
+    },
+    "weighting": 0.94
+  },
+  {
+    "target_task": "mnli",
+    "donor_task": "mrpc",
+    "trial_index": 4,
+    "original_score": {
+      "mnli_matched": {
+        "accuracy": 83.30078125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.033203125
+      }
+    },
+    "merged_score": {
+      "mnli_matched": {
+        "accuracy": 83.3984375
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.1796875
+      }
+    },
+    "donor_body_score": {
+      "mnli_matched": {
+        "accuracy": 33.49609375
+      },
+      "mnli_mismatched": {
+        "accuracy": 34.130859375
+      }
+    },
+    "weighting": 0.92
+  },
+  {
+    "target_task": "qqp",
+    "donor_task": "qnli",
+    "trial_index": 0,
+    "original_score": {
+      "qqp": {
+        "f1": 87.2258064516129,
+        "accuracy": 90.33203125
+      }
+    },
+    "merged_score": {
+      "qqp": {
+        "f1": 87.96944621260343,
+        "accuracy": 90.771484375
+      }
+    },
+    "donor_body_score": {
+      "qqp": {
+        "f1": 0.0,
+        "accuracy": 63.232421875
+      }
+    },
+    "weighting": 0.84
+  },
+  {
+    "target_task": "mnli",
+    "donor_task": "rte",
+    "trial_index": 4,
+    "original_score": {
+      "mnli_matched": {
+        "accuracy": 83.30078125
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.033203125
+      }
+    },
+    "merged_score": {
+      "mnli_matched": {
+        "accuracy": 83.69140625
+      },
+      "mnli_mismatched": {
+        "accuracy": 84.033203125
+      }
+    },
+    "donor_body_score": {
+      "mnli_matched": {
+        "accuracy": 33.59375
+      },
+      "mnli_mismatched": {
+        "accuracy": 34.130859375
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "target_task": "qnli",
+    "donor_task": "qqp",
+    "trial_index": 0,
+    "original_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "merged_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "donor_body_score": {
+      "qnli": {
+        "accuracy": 50.634765625
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "qqp",
+    "donor_task": "sst2",
+    "trial_index": 0,
+    "original_score": {
+      "qqp": {
+        "f1": 87.2258064516129,
+        "accuracy": 90.33203125
+      }
+    },
+    "merged_score": {
+      "qqp": {
+        "f1": 87.60330578512396,
+        "accuracy": 90.478515625
+      }
+    },
+    "donor_body_score": {
+      "qqp": {
+        "f1": 0.0,
+        "accuracy": 63.4765625
+      }
+    },
+    "weighting": 0.84
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "qqp",
+    "trial_index": 4,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 54.60878038039295
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 54.60878038039295
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "qqp",
+    "trial_index": 0,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 53.11983410233877
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 53.41602366353293
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "target_task": "qqp",
+    "donor_task": "cola",
+    "trial_index": 4,
+    "original_score": {
+      "qqp": {
+        "f1": 87.2258064516129,
+        "accuracy": 90.33203125
+      }
+    },
+    "merged_score": {
+      "qqp": {
+        "f1": 87.77991042866284,
+        "accuracy": 90.673828125
+      }
+    },
+    "donor_body_score": {
+      "qqp": {
+        "f1": 0.0,
+        "accuracy": 63.4765625
+      }
+    },
+    "weighting": 0.92
+  },
+  {
+    "target_task": "sst2",
+    "donor_task": "qqp",
+    "trial_index": 0,
+    "original_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "merged_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "donor_body_score": {
+      "sst2": {
+        "accuracy": 49.08256880733945
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "qqp",
+    "donor_task": "cola",
+    "trial_index": 0,
+    "original_score": {
+      "qqp": {
+        "f1": 87.2258064516129,
+        "accuracy": 90.33203125
+      }
+    },
+    "merged_score": {
+      "qqp": {
+        "f1": 87.77070063694266,
+        "accuracy": 90.625
+      }
+    },
+    "donor_body_score": {
+      "qqp": {
+        "f1": 0.0,
+        "accuracy": 63.4765625
+      }
+    },
+    "weighting": 0.88
+  },
+  {
+    "target_task": "qqp",
+    "donor_task": "cola",
+    "trial_index": 1,
+    "original_score": {
+      "qqp": {
+        "f1": 87.2258064516129,
+        "accuracy": 90.33203125
+      }
+    },
+    "merged_score": {
+      "qqp": {
+        "f1": 87.82664117272148,
+        "accuracy": 90.673828125
+      }
+    },
+    "donor_body_score": {
+      "qqp": {
+        "f1": 0.0,
+        "accuracy": 63.4765625
+      }
+    },
+    "weighting": 0.86
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "qqp",
+    "trial_index": 1,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 56.831496658025735
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 56.831496658025735
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "qqp",
+    "trial_index": 3,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 54.4421655829423
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 54.68625515611443
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "qqp",
+    "donor_task": "mrpc",
+    "trial_index": 0,
+    "original_score": {
+      "qqp": {
+        "f1": 87.2258064516129,
+        "accuracy": 90.33203125
+      }
+    },
+    "merged_score": {
+      "qqp": {
+        "f1": 87.34015345268543,
+        "accuracy": 90.33203125
+      }
+    },
+    "donor_body_score": {
+      "qqp": {
+        "f1": 0.0,
+        "accuracy": 63.330078125
+      }
+    },
+    "weighting": 0.82
+  },
+  {
+    "target_task": "qqp",
+    "donor_task": "cola",
+    "trial_index": 2,
+    "original_score": {
+      "qqp": {
+        "f1": 87.2258064516129,
+        "accuracy": 90.33203125
+      }
+    },
+    "merged_score": {
+      "qqp": {
+        "f1": 87.91348600508907,
+        "accuracy": 90.72265625
+      }
+    },
+    "donor_body_score": {
+      "qqp": {
+        "f1": 0.0,
+        "accuracy": 63.4765625
+      }
+    },
+    "weighting": 0.88
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "qqp",
+    "trial_index": 2,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 58.10381850664859
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 58.10381850664859
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "qqp",
+    "trial_index": 0,
+    "original_score": {
+      "mrpc": {
+        "f1": 86.97183098591549,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 86.97183098591549,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 0.0,
+        "accuracy": 31.61764705882353
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "qqp",
+    "donor_task": "cola",
+    "trial_index": 3,
+    "original_score": {
+      "qqp": {
+        "f1": 87.2258064516129,
+        "accuracy": 90.33203125
+      }
+    },
+    "merged_score": {
+      "qqp": {
+        "f1": 87.84213876511777,
+        "accuracy": 90.673828125
+      }
+    },
+    "donor_body_score": {
+      "qqp": {
+        "f1": 0.0,
+        "accuracy": 63.4765625
+      }
+    },
+    "weighting": 0.88
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "qqp",
+    "trial_index": 0,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 86.26207754273258,
+        "spearman_corrcoef": 85.78916237896371
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 86.26207754273258,
+        "spearman_corrcoef": 85.78916237896371
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 0.0,
+        "spearman_corrcoef": 0.0
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "qqp",
+    "donor_task": "stsb",
+    "trial_index": 0,
+    "original_score": {
+      "qqp": {
+        "f1": 87.2258064516129,
+        "accuracy": 90.33203125
+      }
+    },
+    "merged_score": {
+      "qqp": {
+        "f1": 87.43589743589743,
+        "accuracy": 90.4296875
+      }
+    },
+    "donor_body_score": {
+      "qqp": {
+        "f1": 0.0,
+        "accuracy": 63.427734375
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "qqp",
+    "trial_index": 1,
+    "original_score": {
+      "mrpc": {
+        "f1": 87.00361010830325,
+        "accuracy": 82.35294117647058
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 87.41007194244604,
+        "accuracy": 82.84313725490196
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 0.7142857142857143,
+        "accuracy": 31.862745098039213
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "target_task": "qqp",
+    "donor_task": "mrpc",
+    "trial_index": 1,
+    "original_score": {
+      "qqp": {
+        "f1": 87.2258064516129,
+        "accuracy": 90.33203125
+      }
+    },
+    "merged_score": {
+      "qqp": {
+        "f1": 87.4920634920635,
+        "accuracy": 90.380859375
+      }
+    },
+    "donor_body_score": {
+      "qqp": {
+        "f1": 0.0,
+        "accuracy": 63.4765625
+      }
+    },
+    "weighting": 0.84
+  },
+  {
+    "target_task": "qqp",
+    "donor_task": "stsb",
+    "trial_index": 1,
+    "original_score": {
+      "qqp": {
+        "f1": 87.2258064516129,
+        "accuracy": 90.33203125
+      }
+    },
+    "merged_score": {
+      "qqp": {
+        "f1": 87.30057434588386,
+        "accuracy": 90.283203125
+      }
+    },
+    "donor_body_score": {
+      "qqp": {
+        "f1": 0.0,
+        "accuracy": 63.427734375
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "target_task": "qqp",
+    "donor_task": "stsb",
+    "trial_index": 2,
+    "original_score": {
+      "qqp": {
+        "f1": 87.2258064516129,
+        "accuracy": 90.33203125
+      }
+    },
+    "merged_score": {
+      "qqp": {
+        "f1": 87.2258064516129,
+        "accuracy": 90.33203125
+      }
+    },
+    "donor_body_score": {
+      "qqp": {
+        "f1": 0.0,
+        "accuracy": 63.427734375
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "qqp",
+    "trial_index": 2,
+    "original_score": {
+      "mrpc": {
+        "f1": 87.45762711864407,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 87.54208754208753,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 0.7142857142857143,
+        "accuracy": 31.862745098039213
+      }
+    },
+    "weighting": 0.94
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "qqp",
+    "trial_index": 1,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 87.33201660188489,
+        "spearman_corrcoef": 86.6466895818426
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 87.48224958626018,
+        "spearman_corrcoef": 86.79514115218596
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 0.0,
+        "spearman_corrcoef": 0.0
+      }
+    },
+    "weighting": 0.94
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "qqp",
+    "trial_index": 1,
+    "original_score": {
+      "rte": {
+        "accuracy": 65.34296028880865
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 66.78700361010831
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.6
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "qqp",
+    "trial_index": 2,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 85.55687160801008,
+        "spearman_corrcoef": 85.2284537815866
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 85.73213639519379,
+        "spearman_corrcoef": 85.38301839396051
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 0.0,
+        "spearman_corrcoef": 0.0
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "qqp",
+    "donor_task": "mrpc",
+    "trial_index": 2,
+    "original_score": {
+      "qqp": {
+        "f1": 87.2258064516129,
+        "accuracy": 90.33203125
+      }
+    },
+    "merged_score": {
+      "qqp": {
+        "f1": 87.43654822335026,
+        "accuracy": 90.33203125
+      }
+    },
+    "donor_body_score": {
+      "qqp": {
+        "f1": 0.0,
+        "accuracy": 63.330078125
+      }
+    },
+    "weighting": 0.88
+  },
+  {
+    "target_task": "qqp",
+    "donor_task": "rte",
+    "trial_index": 1,
+    "original_score": {
+      "qqp": {
+        "f1": 87.2258064516129,
+        "accuracy": 90.33203125
+      }
+    },
+    "merged_score": {
+      "qqp": {
+        "f1": 87.2258064516129,
+        "accuracy": 90.33203125
+      }
+    },
+    "donor_body_score": {
+      "qqp": {
+        "f1": 0.0,
+        "accuracy": 63.330078125
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "qqp",
+    "trial_index": 3,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 87.27752126860217,
+        "spearman_corrcoef": 86.74186499367926
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 87.27752126860217,
+        "spearman_corrcoef": 86.74186499367926
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 0.0,
+        "spearman_corrcoef": 0.0
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "qqp",
+    "donor_task": "mrpc",
+    "trial_index": 3,
+    "original_score": {
+      "qqp": {
+        "f1": 87.2258064516129,
+        "accuracy": 90.33203125
+      }
+    },
+    "merged_score": {
+      "qqp": {
+        "f1": 87.4920634920635,
+        "accuracy": 90.380859375
+      }
+    },
+    "donor_body_score": {
+      "qqp": {
+        "f1": 0.0,
+        "accuracy": 63.37890625
+      }
+    },
+    "weighting": 0.86
+  },
+  {
+    "target_task": "qqp",
+    "donor_task": "rte",
+    "trial_index": 2,
+    "original_score": {
+      "qqp": {
+        "f1": 87.2258064516129,
+        "accuracy": 90.33203125
+      }
+    },
+    "merged_score": {
+      "qqp": {
+        "f1": 87.27506426735219,
+        "accuracy": 90.33203125
+      }
+    },
+    "donor_body_score": {
+      "qqp": {
+        "f1": 0.0,
+        "accuracy": 63.232421875
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "qqp",
+    "trial_index": 3,
+    "original_score": {
+      "rte": {
+        "accuracy": 65.70397111913357
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 67.14801444043322
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.9
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "qqp",
+    "trial_index": 3,
+    "original_score": {
+      "mrpc": {
+        "f1": 87.58389261744966,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 87.58389261744966,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 0.7142857142857143,
+        "accuracy": 31.862745098039213
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "qqp",
+    "trial_index": 2,
+    "original_score": {
+      "rte": {
+        "accuracy": 63.537906137184116
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 67.87003610108303
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.7
+  },
+  {
+    "target_task": "qqp",
+    "donor_task": "stsb",
+    "trial_index": 3,
+    "original_score": {
+      "qqp": {
+        "f1": 87.2258064516129,
+        "accuracy": 90.33203125
+      }
+    },
+    "merged_score": {
+      "qqp": {
+        "f1": 87.48403575989782,
+        "accuracy": 90.4296875
+      }
+    },
+    "donor_body_score": {
+      "qqp": {
+        "f1": 0.0,
+        "accuracy": 63.37890625
+      }
+    },
+    "weighting": 0.94
+  },
+  {
+    "target_task": "qqp",
+    "donor_task": "rte",
+    "trial_index": 3,
+    "original_score": {
+      "qqp": {
+        "f1": 87.2258064516129,
+        "accuracy": 90.33203125
+      }
+    },
+    "merged_score": {
+      "qqp": {
+        "f1": 87.31487443657436,
+        "accuracy": 90.380859375
+      }
+    },
+    "donor_body_score": {
+      "qqp": {
+        "f1": 0.0,
+        "accuracy": 63.232421875
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "qqp",
+    "donor_task": "rte",
+    "trial_index": 0,
+    "original_score": {
+      "qqp": {
+        "f1": 87.2258064516129,
+        "accuracy": 90.33203125
+      }
+    },
+    "merged_score": {
+      "qqp": {
+        "f1": 87.45247148288973,
+        "accuracy": 90.33203125
+      }
+    },
+    "donor_body_score": {
+      "qqp": {
+        "f1": 0.0,
+        "accuracy": 63.18359375
+      }
+    },
+    "weighting": 0.9
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "qqp",
+    "trial_index": 0,
+    "original_score": {
+      "rte": {
+        "accuracy": 62.8158844765343
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 65.70397111913357
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.7
+  },
+  {
+    "target_task": "qqp",
+    "donor_task": "stsb",
+    "trial_index": 4,
+    "original_score": {
+      "qqp": {
+        "f1": 87.2258064516129,
+        "accuracy": 90.33203125
+      }
+    },
+    "merged_score": {
+      "qqp": {
+        "f1": 87.54813863928112,
+        "accuracy": 90.52734375
+      }
+    },
+    "donor_body_score": {
+      "qqp": {
+        "f1": 0.0,
+        "accuracy": 63.427734375
+      }
+    },
+    "weighting": 0.94
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "qqp",
+    "trial_index": 4,
+    "original_score": {
+      "rte": {
+        "accuracy": 61.01083032490975
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 61.371841155234655
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.94
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "qqp",
+    "trial_index": 4,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 85.10036990495374,
+        "spearman_corrcoef": 84.66275567672378
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 85.10036990495374,
+        "spearman_corrcoef": 84.66275567672378
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 0.0,
+        "spearman_corrcoef": 0.0
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "qqp",
+    "donor_task": "mrpc",
+    "trial_index": 4,
+    "original_score": {
+      "qqp": {
+        "f1": 87.2258064516129,
+        "accuracy": 90.33203125
+      }
+    },
+    "merged_score": {
+      "qqp": {
+        "f1": 87.2258064516129,
+        "accuracy": 90.33203125
+      }
+    },
+    "donor_body_score": {
+      "qqp": {
+        "f1": 0.0,
+        "accuracy": 63.330078125
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "qqp",
+    "trial_index": 4,
+    "original_score": {
+      "mrpc": {
+        "f1": 87.12871287128714,
+        "accuracy": 80.88235294117648
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 87.11864406779661,
+        "accuracy": 81.37254901960785
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 0.0,
+        "accuracy": 31.61764705882353
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "target_task": "qqp",
+    "donor_task": "rte",
+    "trial_index": 4,
+    "original_score": {
+      "qqp": {
+        "f1": 87.2258064516129,
+        "accuracy": 90.33203125
+      }
+    },
+    "merged_score": {
+      "qqp": {
+        "f1": 87.37988468930172,
+        "accuracy": 90.380859375
+      }
+    },
+    "donor_body_score": {
+      "qqp": {
+        "f1": 0.0,
+        "accuracy": 63.18359375
+      }
+    },
+    "weighting": 0.92
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "qnli",
+    "trial_index": 0,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 53.11983410233877
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 53.43001138193058
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 0.9
+  },
+  {
+    "target_task": "qnli",
+    "donor_task": "cola",
+    "trial_index": 4,
+    "original_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "merged_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "donor_body_score": {
+      "qnli": {
+        "accuracy": 50.634765625
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "qnli",
+    "donor_task": "cola",
+    "trial_index": 1,
+    "original_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "merged_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "donor_body_score": {
+      "qnli": {
+        "accuracy": 50.634765625
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "qnli",
+    "donor_task": "cola",
+    "trial_index": 3,
+    "original_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "merged_score": {
+      "qnli": {
+        "accuracy": 90.91796875
+      }
+    },
+    "donor_body_score": {
+      "qnli": {
+        "accuracy": 50.634765625
+      }
+    },
+    "weighting": 0.94
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "qnli",
+    "trial_index": 4,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 54.60878038039295
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 54.60878038039295
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "qnli",
+    "donor_task": "cola",
+    "trial_index": 0,
+    "original_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "merged_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "donor_body_score": {
+      "qnli": {
+        "accuracy": 50.634765625
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "sst2",
+    "donor_task": "qnli",
+    "trial_index": 0,
+    "original_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "merged_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "donor_body_score": {
+      "sst2": {
+        "accuracy": 49.08256880733945
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "qnli",
+    "trial_index": 1,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 56.831496658025735
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 56.831496658025735
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "qnli",
+    "donor_task": "sst2",
+    "trial_index": 0,
+    "original_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "merged_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "donor_body_score": {
+      "qnli": {
+        "accuracy": 50.634765625
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "qnli",
+    "trial_index": 2,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 58.10381850664859
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 58.10381850664859
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "qnli",
+    "trial_index": 3,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 54.4421655829423
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 54.4421655829423
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "qnli",
+    "donor_task": "cola",
+    "trial_index": 2,
+    "original_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "merged_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "donor_body_score": {
+      "qnli": {
+        "accuracy": 50.634765625
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "qnli",
+    "donor_task": "mrpc",
+    "trial_index": 0,
+    "original_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "merged_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "donor_body_score": {
+      "qnli": {
+        "accuracy": 50.634765625
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "qnli",
+    "trial_index": 0,
+    "original_score": {
+      "mrpc": {
+        "f1": 86.97183098591549,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 86.97183098591549,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 0.7117437722419928,
+        "accuracy": 31.61764705882353
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "qnli",
+    "donor_task": "mrpc",
+    "trial_index": 1,
+    "original_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "merged_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "donor_body_score": {
+      "qnli": {
+        "accuracy": 50.68359375
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "qnli",
+    "trial_index": 0,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 86.26207754273258,
+        "spearman_corrcoef": 85.78916237896371
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 86.26207754273258,
+        "spearman_corrcoef": 85.78916237896371
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 5.316319916644959,
+        "spearman_corrcoef": 5.44703775933996
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "qnli",
+    "donor_task": "stsb",
+    "trial_index": 0,
+    "original_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "merged_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "donor_body_score": {
+      "qnli": {
+        "accuracy": 50.634765625
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "qnli",
+    "trial_index": 1,
+    "original_score": {
+      "mrpc": {
+        "f1": 87.00361010830325,
+        "accuracy": 82.35294117647058
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 88.96321070234114,
+        "accuracy": 83.82352941176471
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 7.560137457044673,
+        "accuracy": 34.068627450980394
+      }
+    },
+    "weighting": 0.86
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "qnli",
+    "trial_index": 2,
+    "original_score": {
+      "mrpc": {
+        "f1": 87.45762711864407,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 87.58389261744966,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 8.873720136518772,
+        "accuracy": 34.55882352941176
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "qnli",
+    "donor_task": "stsb",
+    "trial_index": 1,
+    "original_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "merged_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "donor_body_score": {
+      "qnli": {
+        "accuracy": 50.5859375
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "qnli",
+    "donor_task": "mrpc",
+    "trial_index": 2,
+    "original_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "merged_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "donor_body_score": {
+      "qnli": {
+        "accuracy": 50.68359375
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "qnli",
+    "trial_index": 1,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 87.33201660188489,
+        "spearman_corrcoef": 86.6466895818426
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 87.57426059638152,
+        "spearman_corrcoef": 86.90417441563083
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 5.414957596774487,
+        "spearman_corrcoef": 5.449835272889114
+      }
+    },
+    "weighting": 0.92
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "qnli",
+    "trial_index": 1,
+    "original_score": {
+      "rte": {
+        "accuracy": 65.34296028880865
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 67.14801444043322
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 53.42960288808665
+      }
+    },
+    "weighting": 0.54
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "qnli",
+    "trial_index": 3,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 87.27752126860217,
+        "spearman_corrcoef": 86.74186499367926
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 87.27752126860217,
+        "spearman_corrcoef": 86.74186499367926
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 5.288188781177055,
+        "spearman_corrcoef": 5.449835272889114
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "qnli",
+    "donor_task": "stsb",
+    "trial_index": 2,
+    "original_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "merged_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "donor_body_score": {
+      "qnli": {
+        "accuracy": 50.5859375
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "qnli",
+    "donor_task": "rte",
+    "trial_index": 1,
+    "original_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "merged_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "donor_body_score": {
+      "qnli": {
+        "accuracy": 50.732421875
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "qnli",
+    "trial_index": 2,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 85.55687160801008,
+        "spearman_corrcoef": 85.2284537815866
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 85.55687160801008,
+        "spearman_corrcoef": 85.2284537815866
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 5.31631991664496,
+        "spearman_corrcoef": 5.44703775933996
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "qnli",
+    "donor_task": "stsb",
+    "trial_index": 3,
+    "original_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "merged_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "donor_body_score": {
+      "qnli": {
+        "accuracy": 50.634765625
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "qnli",
+    "trial_index": 3,
+    "original_score": {
+      "rte": {
+        "accuracy": 65.70397111913357
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 66.4259927797834
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 53.42960288808665
+      }
+    },
+    "weighting": 0.92
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "qnli",
+    "trial_index": 3,
+    "original_score": {
+      "mrpc": {
+        "f1": 87.58389261744966,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 88.03986710963456,
+        "accuracy": 82.35294117647058
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 6.206896551724138,
+        "accuracy": 33.33333333333333
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "target_task": "qnli",
+    "donor_task": "mrpc",
+    "trial_index": 3,
+    "original_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "merged_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "donor_body_score": {
+      "qnli": {
+        "accuracy": 50.732421875
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "qnli",
+    "donor_task": "rte",
+    "trial_index": 2,
+    "original_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "merged_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "donor_body_score": {
+      "qnli": {
+        "accuracy": 50.732421875
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "qnli",
+    "donor_task": "rte",
+    "trial_index": 3,
+    "original_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "merged_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "donor_body_score": {
+      "qnli": {
+        "accuracy": 50.732421875
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "qnli",
+    "trial_index": 2,
+    "original_score": {
+      "rte": {
+        "accuracy": 63.537906137184116
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 67.14801444043322
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.34657039711191
+      }
+    },
+    "weighting": 0.64
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "qnli",
+    "trial_index": 0,
+    "original_score": {
+      "rte": {
+        "accuracy": 62.8158844765343
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 68.23104693140795
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.34657039711191
+      }
+    },
+    "weighting": 0.6
+  },
+  {
+    "target_task": "qnli",
+    "donor_task": "stsb",
+    "trial_index": 4,
+    "original_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "merged_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "donor_body_score": {
+      "qnli": {
+        "accuracy": 50.5859375
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "qnli",
+    "trial_index": 4,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 85.10036990495374,
+        "spearman_corrcoef": 84.66275567672378
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 85.10036990495374,
+        "spearman_corrcoef": 84.66275567672378
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 3.5594840425295913,
+        "spearman_corrcoef": 5.4475409034515305
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "qnli",
+    "donor_task": "mrpc",
+    "trial_index": 4,
+    "original_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "merged_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "donor_body_score": {
+      "qnli": {
+        "accuracy": 50.634765625
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "qnli",
+    "donor_task": "rte",
+    "trial_index": 0,
+    "original_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "merged_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "donor_body_score": {
+      "qnli": {
+        "accuracy": 50.68359375
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "qnli",
+    "trial_index": 4,
+    "original_score": {
+      "mrpc": {
+        "f1": 87.12871287128714,
+        "accuracy": 80.88235294117648
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 87.29096989966555,
+        "accuracy": 81.37254901960785
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 1.4234875444839856,
+        "accuracy": 32.1078431372549
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "qnli",
+    "trial_index": 4,
+    "original_score": {
+      "rte": {
+        "accuracy": 61.01083032490975
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 63.537906137184116
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 51.985559566786996
+      }
+    },
+    "weighting": 0.88
+  },
+  {
+    "target_task": "sst2",
+    "donor_task": "cola",
+    "trial_index": 4,
+    "original_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "merged_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "donor_body_score": {
+      "sst2": {
+        "accuracy": 49.08256880733945
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "qnli",
+    "donor_task": "rte",
+    "trial_index": 4,
+    "original_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "merged_score": {
+      "qnli": {
+        "accuracy": 90.869140625
+      }
+    },
+    "donor_body_score": {
+      "qnli": {
+        "accuracy": 50.5859375
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "sst2",
+    "donor_task": "cola",
+    "trial_index": 3,
+    "original_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "merged_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "donor_body_score": {
+      "sst2": {
+        "accuracy": 49.08256880733945
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "sst2",
+    "donor_task": "cola",
+    "trial_index": 0,
+    "original_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "merged_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "donor_body_score": {
+      "sst2": {
+        "accuracy": 49.08256880733945
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "sst2",
+    "trial_index": 4,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 54.60878038039295
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 54.6401550342545
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "sst2",
+    "trial_index": 1,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 56.831496658025735
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 56.831496658025735
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "sst2",
+    "trial_index": 0,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 53.11983410233877
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 53.98855271993364
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 0.86
+  },
+  {
+    "target_task": "sst2",
+    "donor_task": "cola",
+    "trial_index": 1,
+    "original_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "merged_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "donor_body_score": {
+      "sst2": {
+        "accuracy": 49.08256880733945
+      }
+    },
+    "weighting": 0.86
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "sst2",
+    "trial_index": 3,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 54.4421655829423
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 55.20661099098646
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "target_task": "sst2",
+    "donor_task": "cola",
+    "trial_index": 2,
+    "original_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "merged_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "donor_body_score": {
+      "sst2": {
+        "accuracy": 49.08256880733945
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "sst2",
+    "donor_task": "mrpc",
+    "trial_index": 1,
+    "original_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "merged_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "donor_body_score": {
+      "sst2": {
+        "accuracy": 49.08256880733945
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "sst2",
+    "trial_index": 0,
+    "original_score": {
+      "mrpc": {
+        "f1": 86.97183098591549,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 86.97183098591549,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 0.0,
+        "accuracy": 31.61764705882353
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "sst2",
+    "trial_index": 2,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 58.10381850664859
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 58.320084227297656
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "sst2",
+    "trial_index": 1,
+    "original_score": {
+      "mrpc": {
+        "f1": 87.00361010830325,
+        "accuracy": 82.35294117647058
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 88.08290155440415,
+        "accuracy": 83.08823529411765
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 0.0,
+        "accuracy": 31.61764705882353
+      }
+    },
+    "weighting": 0.82
+  },
+  {
+    "target_task": "sst2",
+    "donor_task": "stsb",
+    "trial_index": 0,
+    "original_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "merged_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "donor_body_score": {
+      "sst2": {
+        "accuracy": 49.08256880733945
+      }
+    },
+    "weighting": 0.88
+  },
+  {
+    "target_task": "sst2",
+    "donor_task": "mrpc",
+    "trial_index": 0,
+    "original_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "merged_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "donor_body_score": {
+      "sst2": {
+        "accuracy": 49.08256880733945
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "sst2",
+    "donor_task": "stsb",
+    "trial_index": 1,
+    "original_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "merged_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "donor_body_score": {
+      "sst2": {
+        "accuracy": 49.08256880733945
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "sst2",
+    "trial_index": 0,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 86.26207754273258,
+        "spearman_corrcoef": 85.78916237896371
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 86.26207754273258,
+        "spearman_corrcoef": 85.78916237896371
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 0.0,
+        "spearman_corrcoef": 0.0
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "sst2",
+    "trial_index": 1,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 87.33201660188489,
+        "spearman_corrcoef": 86.6466895818426
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 87.3929395416516,
+        "spearman_corrcoef": 86.6953741964612
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 0.0,
+        "spearman_corrcoef": 0.0
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "sst2",
+    "donor_task": "rte",
+    "trial_index": 1,
+    "original_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "merged_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "donor_body_score": {
+      "sst2": {
+        "accuracy": 49.08256880733945
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "sst2",
+    "donor_task": "mrpc",
+    "trial_index": 2,
+    "original_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "merged_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "donor_body_score": {
+      "sst2": {
+        "accuracy": 49.08256880733945
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "sst2",
+    "trial_index": 2,
+    "original_score": {
+      "mrpc": {
+        "f1": 87.45762711864407,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 87.54208754208753,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 0.0,
+        "accuracy": 31.61764705882353
+      }
+    },
+    "weighting": 0.94
+  },
+  {
+    "target_task": "sst2",
+    "donor_task": "stsb",
+    "trial_index": 2,
+    "original_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "merged_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "donor_body_score": {
+      "sst2": {
+        "accuracy": 49.08256880733945
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "sst2",
+    "trial_index": 2,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 85.55687160801008,
+        "spearman_corrcoef": 85.2284537815866
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 85.61184196172343,
+        "spearman_corrcoef": 85.26610797941511
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 0.0,
+        "spearman_corrcoef": 0.0
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "sst2",
+    "trial_index": 1,
+    "original_score": {
+      "rte": {
+        "accuracy": 65.34296028880865
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 66.4259927797834
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.88
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "sst2",
+    "trial_index": 3,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 87.29248143977159,
+        "spearman_corrcoef": 86.7652457866537
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 87.29426289920849,
+        "spearman_corrcoef": 86.7851007315408
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 0.0,
+        "spearman_corrcoef": 0.0
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "sst2",
+    "trial_index": 2,
+    "original_score": {
+      "rte": {
+        "accuracy": 63.537906137184116
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 63.898916967509024
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "sst2",
+    "donor_task": "mrpc",
+    "trial_index": 3,
+    "original_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "merged_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "donor_body_score": {
+      "sst2": {
+        "accuracy": 49.08256880733945
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "sst2",
+    "trial_index": 3,
+    "original_score": {
+      "rte": {
+        "accuracy": 65.70397111913357
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 66.4259927797834
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.86
+  },
+  {
+    "target_task": "sst2",
+    "donor_task": "rte",
+    "trial_index": 2,
+    "original_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "merged_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "donor_body_score": {
+      "sst2": {
+        "accuracy": 49.08256880733945
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "sst2",
+    "donor_task": "stsb",
+    "trial_index": 3,
+    "original_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "merged_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "donor_body_score": {
+      "sst2": {
+        "accuracy": 49.08256880733945
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "sst2",
+    "trial_index": 3,
+    "original_score": {
+      "mrpc": {
+        "f1": 87.58389261744966,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 87.62541806020067,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 0.0,
+        "accuracy": 31.61764705882353
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "sst2",
+    "donor_task": "rte",
+    "trial_index": 3,
+    "original_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "merged_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "donor_body_score": {
+      "sst2": {
+        "accuracy": 49.08256880733945
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "sst2",
+    "donor_task": "rte",
+    "trial_index": 0,
+    "original_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "merged_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "donor_body_score": {
+      "sst2": {
+        "accuracy": 49.08256880733945
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "sst2",
+    "donor_task": "stsb",
+    "trial_index": 4,
+    "original_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "merged_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "donor_body_score": {
+      "sst2": {
+        "accuracy": 49.08256880733945
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "sst2",
+    "trial_index": 0,
+    "original_score": {
+      "rte": {
+        "accuracy": 62.8158844765343
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 65.34296028880865
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.76
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "sst2",
+    "trial_index": 4,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 85.10036990495374,
+        "spearman_corrcoef": 84.66275567672378
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 85.10036990495374,
+        "spearman_corrcoef": 84.66275567672378
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 0.0,
+        "spearman_corrcoef": 0.0
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "sst2",
+    "donor_task": "rte",
+    "trial_index": 4,
+    "original_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "merged_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "donor_body_score": {
+      "sst2": {
+        "accuracy": 49.08256880733945
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "sst2",
+    "donor_task": "mrpc",
+    "trial_index": 4,
+    "original_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "merged_score": {
+      "sst2": {
+        "accuracy": 92.43119266055045
+      }
+    },
+    "donor_body_score": {
+      "sst2": {
+        "accuracy": 49.08256880733945
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "sst2",
+    "trial_index": 4,
+    "original_score": {
+      "mrpc": {
+        "f1": 87.12871287128714,
+        "accuracy": 80.88235294117648
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 87.12871287128714,
+        "accuracy": 80.88235294117648
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 0.0,
+        "accuracy": 31.61764705882353
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "stsb",
+    "trial_index": 4,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 54.60878038039295
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 54.89933947733587
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 0.94
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "sst2",
+    "trial_index": 4,
+    "original_score": {
+      "rte": {
+        "accuracy": 61.01083032490975
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 62.8158844765343
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.44
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "cola",
+    "trial_index": 4,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 85.10036990495374,
+        "spearman_corrcoef": 84.66275567672378
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 85.10036990495374,
+        "spearman_corrcoef": 84.66275567672378
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 0.0,
+        "spearman_corrcoef": 0.0
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "rte",
+    "trial_index": 4,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 54.60878038039295
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 54.6401550342545
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "cola",
+    "trial_index": 4,
+    "original_score": {
+      "mrpc": {
+        "f1": 87.12871287128714,
+        "accuracy": 80.88235294117648
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 87.12871287128714,
+        "accuracy": 80.88235294117648
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 0.0,
+        "accuracy": 31.61764705882353
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "cola",
+    "trial_index": 4,
+    "original_score": {
+      "rte": {
+        "accuracy": 61.01083032490975
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 63.537906137184116
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.64
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "mrpc",
+    "trial_index": 4,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 54.60878038039295
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 54.60878038039295
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "cola",
+    "trial_index": 0,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 86.2620775427326,
+        "spearman_corrcoef": 85.78916237896371
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 86.2620775427326,
+        "spearman_corrcoef": 85.78916237896371
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 0.0,
+        "spearman_corrcoef": 0.0
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "cola",
+    "trial_index": 0,
+    "original_score": {
+      "mrpc": {
+        "f1": 86.97183098591549,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 87.32394366197182,
+        "accuracy": 82.35294117647058
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 0.0,
+        "accuracy": 31.61764705882353
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "mrpc",
+    "trial_index": 0,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 53.11983410233877
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 53.67820334111587
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 0.78
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "cola",
+    "trial_index": 0,
+    "original_score": {
+      "rte": {
+        "accuracy": 62.8158844765343
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 65.34296028880865
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.94
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "rte",
+    "trial_index": 0,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 53.11983410233877
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 53.41602366353293
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 0.86
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "cola",
+    "trial_index": 1,
+    "original_score": {
+      "mrpc": {
+        "f1": 87.00361010830325,
+        "accuracy": 82.35294117647058
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 87.88927335640139,
+        "accuracy": 82.84313725490196
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 0.0,
+        "accuracy": 31.61764705882353
+      }
+    },
+    "weighting": 0.9
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "mrpc",
+    "trial_index": 1,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 56.831496658025735
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 57.05518999283685
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 0.94
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "stsb",
+    "trial_index": 1,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 56.831496658025735
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 56.831496658025735
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "stsb",
+    "trial_index": 0,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 53.11983410233877
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 53.919016842553845
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "cola",
+    "trial_index": 1,
+    "original_score": {
+      "rte": {
+        "accuracy": 65.34296028880865
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 65.34296028880865
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "rte",
+    "trial_index": 1,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 56.831496658025735
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 56.831496658025735
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "cola",
+    "trial_index": 3,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 87.27752126860217,
+        "spearman_corrcoef": 86.74186499367926
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 87.27752126860217,
+        "spearman_corrcoef": 86.74186499367926
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 0.0,
+        "spearman_corrcoef": 0.0
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "cola",
+    "trial_index": 1,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 87.33201660188489,
+        "spearman_corrcoef": 86.6466895818426
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 87.44854153843171,
+        "spearman_corrcoef": 86.74639114050572
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 0.0,
+        "spearman_corrcoef": 0.0
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "cola",
+    "trial_index": 3,
+    "original_score": {
+      "mrpc": {
+        "f1": 87.58389261744966,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 87.58389261744966,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 0.0,
+        "accuracy": 31.61764705882353
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "mrpc",
+    "trial_index": 3,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 54.4421655829423
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 54.961298853111
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 0.9
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "cola",
+    "trial_index": 3,
+    "original_score": {
+      "rte": {
+        "accuracy": 65.70397111913357
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 65.70397111913357
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "rte",
+    "trial_index": 3,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 54.4421655829423
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 54.950939208938166
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "stsb",
+    "trial_index": 3,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 54.4421655829423
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 54.947011082213336
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "cola",
+    "trial_index": 2,
+    "original_score": {
+      "mrpc": {
+        "f1": 87.45762711864407,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 87.68971332209105,
+        "accuracy": 82.1078431372549
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 0.0,
+        "accuracy": 31.61764705882353
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "stsb",
+    "trial_index": 0,
+    "original_score": {
+      "mrpc": {
+        "f1": 86.97183098591549,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 87.00361010830325,
+        "accuracy": 82.35294117647058
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 1.4134275618374559,
+        "accuracy": 31.61764705882353
+      }
+    },
+    "weighting": 0.86
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "mrpc",
+    "trial_index": 2,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 58.10381850664859
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 58.320084227297656
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "stsb",
+    "trial_index": 2,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 58.10381850664859
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 58.10381850664859
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "cola",
+    "trial_index": 2,
+    "original_score": {
+      "rte": {
+        "accuracy": 63.537906137184116
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 63.537906137184116
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.9
+  },
+  {
+    "target_task": "cola",
+    "donor_task": "rte",
+    "trial_index": 2,
+    "original_score": {
+      "cola": {
+        "matthews_corrcoef": 58.10381850664859
+      }
+    },
+    "merged_score": {
+      "cola": {
+        "matthews_corrcoef": 58.320084227297656
+      }
+    },
+    "donor_body_score": {
+      "cola": {
+        "matthews_corrcoef": 0.0
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "rte",
+    "trial_index": 0,
+    "original_score": {
+      "mrpc": {
+        "f1": 86.97183098591549,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 87.38898756660744,
+        "accuracy": 82.59803921568627
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 0.0,
+        "accuracy": 31.61764705882353
+      }
+    },
+    "weighting": 0.94
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "mrpc",
+    "trial_index": 0,
+    "original_score": {
+      "rte": {
+        "accuracy": 62.8158844765343
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 64.25992779783394
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 53.068592057761734
+      }
+    },
+    "weighting": 0.78
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "stsb",
+    "trial_index": 0,
+    "original_score": {
+      "rte": {
+        "accuracy": 62.8158844765343
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 65.34296028880865
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.94
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "mrpc",
+    "trial_index": 0,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 86.26207754273258,
+        "spearman_corrcoef": 85.78916237896371
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 86.27565319432568,
+        "spearman_corrcoef": 85.83590169623251
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 2.6775917331303445,
+        "spearman_corrcoef": 3.442197502853443
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "cola",
+    "trial_index": 2,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 85.55687160801008,
+        "spearman_corrcoef": 85.2284537815866
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 85.55687160801008,
+        "spearman_corrcoef": 85.2284537815866
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 0.0,
+        "spearman_corrcoef": 0.0
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "rte",
+    "trial_index": 1,
+    "original_score": {
+      "mrpc": {
+        "f1": 87.00361010830325,
+        "accuracy": 82.35294117647058
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 87.65652951699464,
+        "accuracy": 83.08823529411765
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 6.228373702422146,
+        "accuracy": 33.57843137254902
+      }
+    },
+    "weighting": 0.94
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "rte",
+    "trial_index": 0,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 86.26207754273258,
+        "spearman_corrcoef": 85.78916237896371
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 86.26207754273258,
+        "spearman_corrcoef": 85.78916237896371
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 5.991729261810883,
+        "spearman_corrcoef": 6.215974191051984
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "stsb",
+    "trial_index": 1,
+    "original_score": {
+      "mrpc": {
+        "f1": 87.00361010830325,
+        "accuracy": 82.35294117647058
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 87.74422735346359,
+        "accuracy": 83.08823529411765
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 3.4482758620689653,
+        "accuracy": 31.372549019607842
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "mrpc",
+    "trial_index": 1,
+    "original_score": {
+      "rte": {
+        "accuracy": 65.34296028880865
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 66.06498194945848
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 53.068592057761734
+      }
+    },
+    "weighting": 0.74
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "mrpc",
+    "trial_index": 1,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 87.33201660188489,
+        "spearman_corrcoef": 86.6466895818426
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 87.39724932409592,
+        "spearman_corrcoef": 86.68830162857826
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 7.366822248679496,
+        "spearman_corrcoef": 8.696302275508422
+      }
+    },
+    "weighting": 0.94
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "stsb",
+    "trial_index": 1,
+    "original_score": {
+      "rte": {
+        "accuracy": 65.34296028880865
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 66.06498194945848
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.92
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "rte",
+    "trial_index": 1,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 87.33201660188489,
+        "spearman_corrcoef": 86.6466895818426
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 87.33599606327058,
+        "spearman_corrcoef": 86.67017322257335
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 5.61700650932237,
+        "spearman_corrcoef": 6.211555996179499
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "stsb",
+    "trial_index": 2,
+    "original_score": {
+      "mrpc": {
+        "f1": 87.45762711864407,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 87.45762711864407,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 2.090592334494773,
+        "accuracy": 31.127450980392158
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "rte",
+    "trial_index": 2,
+    "original_score": {
+      "mrpc": {
+        "f1": 87.45762711864407,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 87.5,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 2.1276595744680855,
+        "accuracy": 32.35294117647059
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "mrpc",
+    "trial_index": 2,
+    "original_score": {
+      "rte": {
+        "accuracy": 63.537906137184116
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 64.25992779783394
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.5
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "mrpc",
+    "trial_index": 3,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 87.27752126860217,
+        "spearman_corrcoef": 86.74186499367926
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 87.27752126860217,
+        "spearman_corrcoef": 86.74186499367926
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 8.400663102653247,
+        "spearman_corrcoef": 8.003825903006758
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "mrpc",
+    "trial_index": 2,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 85.55687160801008,
+        "spearman_corrcoef": 85.2284537815866
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 85.65024399030867,
+        "spearman_corrcoef": 85.33262793153847
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 6.119519696826696,
+        "spearman_corrcoef": 7.382622243359778
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "stsb",
+    "trial_index": 3,
+    "original_score": {
+      "mrpc": {
+        "f1": 87.58389261744966,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 87.85357737104825,
+        "accuracy": 82.1078431372549
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 2.7874564459930316,
+        "accuracy": 31.61764705882353
+      }
+    },
+    "weighting": 0.94
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "rte",
+    "trial_index": 2,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 85.55687160801008,
+        "spearman_corrcoef": 85.2284537815866
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 85.55687160801008,
+        "spearman_corrcoef": 85.2284537815866
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 6.3236241415403,
+        "spearman_corrcoef": 6.213543962976123
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "stsb",
+    "trial_index": 3,
+    "original_score": {
+      "rte": {
+        "accuracy": 65.70397111913357
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 67.50902527075813
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.74
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "stsb",
+    "trial_index": 2,
+    "original_score": {
+      "rte": {
+        "accuracy": 63.537906137184116
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 67.14801444043322
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.52
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "rte",
+    "trial_index": 3,
+    "original_score": {
+      "mrpc": {
+        "f1": 87.58389261744966,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 87.70764119601328,
+        "accuracy": 81.86274509803921
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 4.878048780487805,
+        "accuracy": 33.088235294117645
+      }
+    },
+    "weighting": 0.9
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "rte",
+    "trial_index": 3,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 87.29248143977159,
+        "spearman_corrcoef": 86.7652457866537
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 87.29248143977159,
+        "spearman_corrcoef": 86.7652457866537
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 6.70408330479432,
+        "spearman_corrcoef": 6.216435588814231
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "mrpc",
+    "trial_index": 3,
+    "original_score": {
+      "rte": {
+        "accuracy": 65.70397111913357
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 66.06498194945848
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 53.068592057761734
+      }
+    },
+    "weighting": 0.98
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "rte",
+    "trial_index": 4,
+    "original_score": {
+      "mrpc": {
+        "f1": 87.12871287128714,
+        "accuracy": 80.88235294117648
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 87.12871287128714,
+        "accuracy": 80.88235294117648
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 2.1201413427561837,
+        "accuracy": 32.1078431372549
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "stsb",
+    "trial_index": 4,
+    "original_score": {
+      "rte": {
+        "accuracy": 61.01083032490975
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 61.01083032490975
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.58
+  },
+  {
+    "target_task": "mrpc",
+    "donor_task": "stsb",
+    "trial_index": 4,
+    "original_score": {
+      "mrpc": {
+        "f1": 87.12871287128714,
+        "accuracy": 80.88235294117648
+      }
+    },
+    "merged_score": {
+      "mrpc": {
+        "f1": 87.14524207011686,
+        "accuracy": 81.12745098039215
+      }
+    },
+    "donor_body_score": {
+      "mrpc": {
+        "f1": 2.7397260273972597,
+        "accuracy": 30.392156862745097
+      }
+    },
+    "weighting": 0.9
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "mrpc",
+    "trial_index": 4,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 85.10036990495374,
+        "spearman_corrcoef": 84.66275567672378
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 85.10036990495374,
+        "spearman_corrcoef": 84.66275567672378
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 10.038148803899526,
+        "spearman_corrcoef": 7.1726265095106
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "stsb",
+    "donor_task": "rte",
+    "trial_index": 4,
+    "original_score": {
+      "stsb": {
+        "pearson_corrcoef": 85.10036990495374,
+        "spearman_corrcoef": 84.66275567672378
+      }
+    },
+    "merged_score": {
+      "stsb": {
+        "pearson_corrcoef": 85.10036990495374,
+        "spearman_corrcoef": 84.66275567672378
+      }
+    },
+    "donor_body_score": {
+      "stsb": {
+        "pearson_corrcoef": 2.242510405488146,
+        "spearman_corrcoef": 6.210717739623498
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "target_task": "rte",
+    "donor_task": "mrpc",
+    "trial_index": 4,
+    "original_score": {
+      "rte": {
+        "accuracy": 61.01083032490975
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 64.25992779783394
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 53.068592057761734
+      }
+    },
+    "weighting": 0.68
+  }
+]

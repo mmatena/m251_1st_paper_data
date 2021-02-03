@@ -1,0 +1,77 @@
+[
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "1f2e6947917746d581b106f4e70a5ec8"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 33.83491974617394
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 33.83491974617394
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 33.83491974617394
+      }
+    },
+    "weighting": 0.4266666666666667
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "484d084f87684d3085f1eaf6257b3232"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 19.26112184070594
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 19.26112184070594
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 19.26112184070594
+      }
+    },
+    "weighting": 0.43333333333333335
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "f563bb8d4de0415f9f144207db78934f"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 37.8840209947767
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 37.8840209947767
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 37.8840209947767
+      }
+    },
+    "weighting": 0.5
+  }
+]

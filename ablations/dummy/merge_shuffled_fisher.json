@@ -1,0 +1,127 @@
+[
+  {
+    "task": "rte",
+    "other_task": "mnli",
+    "trial_index": 2,
+    "hyperparams": {
+      "target_ckpt_index": 9,
+      "donor_ckpt_index": 7
+    },
+    "original_score": {
+      "rte": {
+        "accuracy": 61.371841155234655
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 70.7581227436823
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "task": "rte",
+    "other_task": "mnli",
+    "trial_index": 1,
+    "hyperparams": {
+      "target_ckpt_index": 9,
+      "donor_ckpt_index": 7
+    },
+    "original_score": {
+      "rte": {
+        "accuracy": 65.34296028880865
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 67.50902527075813
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.64
+  },
+  {
+    "task": "rte",
+    "other_task": "mnli",
+    "trial_index": 3,
+    "hyperparams": {
+      "target_ckpt_index": 9,
+      "donor_ckpt_index": 7
+    },
+    "original_score": {
+      "rte": {
+        "accuracy": 59.205776173285194
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 64.98194945848375
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.94
+  },
+  {
+    "task": "rte",
+    "other_task": "mnli",
+    "trial_index": 0,
+    "hyperparams": {
+      "target_ckpt_index": 9,
+      "donor_ckpt_index": 7
+    },
+    "original_score": {
+      "rte": {
+        "accuracy": 61.73285198555957
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 71.84115523465704
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.82
+  },
+  {
+    "task": "rte",
+    "other_task": "mnli",
+    "trial_index": 4,
+    "hyperparams": {
+      "target_ckpt_index": 9,
+      "donor_ckpt_index": 7
+    },
+    "original_score": {
+      "rte": {
+        "accuracy": 59.205776173285194
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 69.31407942238266
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 52.707581227436826
+      }
+    },
+    "weighting": 0.92
+  }
+]

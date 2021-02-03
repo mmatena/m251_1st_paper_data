@@ -1,0 +1,3627 @@
+[
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "fea7e4073f7e4954b5d1dcc909ed93db"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 67.21292672346367
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 68.13761589623658
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 5.185185185185185
+      }
+    },
+    "weighting": 0.8933333333333333
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "fea7e4073f7e4954b5d1dcc909ed93db"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 42.36772486772487
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 43.10772957831781
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 5.185185185185185
+      }
+    },
+    "weighting": 0.9866666666666667
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "fea7e4073f7e4954b5d1dcc909ed93db"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 73.56874731874731
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 73.83272616879175
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 5.185185185185185
+      }
+    },
+    "weighting": 0.88
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "fea7e4073f7e4954b5d1dcc909ed93db"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 33.618421052631575
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 34.19549977385798
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 5.185185185185185
+      }
+    },
+    "weighting": 0.9466666666666667
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "fea7e4073f7e4954b5d1dcc909ed93db"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 73.86613167245578
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 76.8504686187613
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 5.185185185185185
+      }
+    },
+    "weighting": 0.9466666666666667
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "fea7e4073f7e4954b5d1dcc909ed93db"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 67.873321415287
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 69.86864771748493
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 5.185185185185185
+      }
+    },
+    "weighting": 0.9866666666666667
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "fea7e4073f7e4954b5d1dcc909ed93db"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 68.69860244860246
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 75.25265024596864
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 5.185185185185185
+      }
+    },
+    "weighting": 0.8933333333333333
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "fea7e4073f7e4954b5d1dcc909ed93db"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 48.896240096844174
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 52.09654829673806
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 5.185185185185185
+      }
+    },
+    "weighting": 0.9466666666666667
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "fea7e4073f7e4954b5d1dcc909ed93db"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 71.25268191632344
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 72.97717719495589
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 5.185185185185185
+      }
+    },
+    "weighting": 0.8533333333333334
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "d16db257ee5a493e976490b2354ef778"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 56.23196465164547
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 56.23196465164547
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 9.139440529575058
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "3d389a8a533843f28bbc74f8c1e6c4c8"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 30.0
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 30.163940753606404
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 11.368015414258188
+      }
+    },
+    "weighting": 0.9733333333333334
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "d16db257ee5a493e976490b2354ef778"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 80.56672526730378
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 81.45713903454057
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 9.139440529575058
+      }
+    },
+    "weighting": 0.9733333333333334
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "d16db257ee5a493e976490b2354ef778"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 83.4487103661676
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 83.4487103661676
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 9.139440529575058
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "d16db257ee5a493e976490b2354ef778"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 86.64496878550905
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 87.31636965558931
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 9.139440529575058
+      }
+    },
+    "weighting": 0.8
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "d16db257ee5a493e976490b2354ef778"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 84.47251280461406
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 85.42630042945454
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 9.139440529575058
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "3d389a8a533843f28bbc74f8c1e6c4c8"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 62.77293844367014
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 67.47426531226047
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 11.368015414258188
+      }
+    },
+    "weighting": 0.9466666666666667
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "d16db257ee5a493e976490b2354ef778"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 84.07809114702413
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 85.23832372615378
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 9.139440529575058
+      }
+    },
+    "weighting": 0.8133333333333334
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "d16db257ee5a493e976490b2354ef778"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 83.07289686475927
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 83.54838732029609
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 9.139440529575058
+      }
+    },
+    "weighting": 0.9866666666666667
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "d16db257ee5a493e976490b2354ef778"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 83.44761005983757
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 86.00921334534365
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 9.139440529575058
+      }
+    },
+    "weighting": 0.7066666666666667
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "3d389a8a533843f28bbc74f8c1e6c4c8"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 66.92607134467599
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 67.87818242363697
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 11.368015414258188
+      }
+    },
+    "weighting": 0.84
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "a1a845719538418eb56f0a08f5fac8f9"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 81.689453125
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 81.8359375
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 30.908203125
+      }
+    },
+    "weighting": 0.9466666666666667
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "3d389a8a533843f28bbc74f8c1e6c4c8"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 60.58770329661871
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 66.54229213052743
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 11.368015414258188
+      }
+    },
+    "weighting": 0.8533333333333334
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "3d389a8a533843f28bbc74f8c1e6c4c8"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 65.22895845900939
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 75.94154897304503
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 11.368015414258188
+      }
+    },
+    "weighting": 0.7466666666666667
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "a1a845719538418eb56f0a08f5fac8f9"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 82.32421875
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 82.8125
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 31.103515625
+      }
+    },
+    "weighting": 0.9466666666666667
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "a1a845719538418eb56f0a08f5fac8f9"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 80.95703125
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 82.03125
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 25.1953125
+      }
+    },
+    "weighting": 0.7333333333333333
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "a1a845719538418eb56f0a08f5fac8f9"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 82.8125
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 83.0078125
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 30.810546875
+      }
+    },
+    "weighting": 0.84
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "3d389a8a533843f28bbc74f8c1e6c4c8"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 63.302487522671
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 65.31279178338002
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 11.368015414258188
+      }
+    },
+    "weighting": 0.9066666666666666
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "3d389a8a533843f28bbc74f8c1e6c4c8"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 70.10716587610905
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 72.31984219689137
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 11.368015414258188
+      }
+    },
+    "weighting": 0.92
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "3d389a8a533843f28bbc74f8c1e6c4c8"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 65.33264248645838
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 70.71833502754555
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 11.368015414258188
+      }
+    },
+    "weighting": 0.8
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "3d389a8a533843f28bbc74f8c1e6c4c8"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 69.79691876750701
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 74.83539922564312
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 11.368015414258188
+      }
+    },
+    "weighting": 0.7866666666666666
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "a1a845719538418eb56f0a08f5fac8f9"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 81.73828125
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 83.642578125
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 25.146484375
+      }
+    },
+    "weighting": 0.6666666666666666
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "a1a845719538418eb56f0a08f5fac8f9"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 82.763671875
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 83.88671875
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 26.904296875
+      }
+    },
+    "weighting": 0.5866666666666667
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "a1a845719538418eb56f0a08f5fac8f9"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 83.10546875
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 83.740234375
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 31.396484375
+      }
+    },
+    "weighting": 0.8666666666666667
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "a1a845719538418eb56f0a08f5fac8f9"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 82.568359375
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 83.203125
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 30.95703125
+      }
+    },
+    "weighting": 0.88
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "c58b01a61d2d408987cfefcca5045a75"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 33.39619252873563
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 33.39619252873563
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 4.320987654320987
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "c58b01a61d2d408987cfefcca5045a75"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 37.97296934158736
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 37.97296934158736
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 4.56140350877193
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "2c61957e0fa64453a47a60595a9e4263"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 81.44533719890623
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 82.58146933775097
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 13.894207167403044
+      }
+    },
+    "weighting": 0.8266666666666667
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "2c61957e0fa64453a47a60595a9e4263"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 57.76953892944097
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 57.76953892944097
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 10.442528810810103
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "2c61957e0fa64453a47a60595a9e4263"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 79.4921253355227
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 81.27375991633767
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 10.700730810049874
+      }
+    },
+    "weighting": 0.9066666666666666
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "2c61957e0fa64453a47a60595a9e4263"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 72.82641639528428
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 74.00517235369135
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 12.044100398780202
+      }
+    },
+    "weighting": 0.9733333333333334
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "2c61957e0fa64453a47a60595a9e4263"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 82.39831941446852
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 82.39831941446852
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 11.814056175640868
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "ccb2e82f046549b48e2437582175981f"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 79.150390625
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 79.443359375
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 33.642578125
+      }
+    },
+    "weighting": 0.9333333333333333
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "2c61957e0fa64453a47a60595a9e4263"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 82.29957134163496
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 84.1815162178902
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 12.046918767507
+      }
+    },
+    "weighting": 0.8666666666666667
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "2c61957e0fa64453a47a60595a9e4263"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 81.30606956296154
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 83.59553117986957
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 10.98627323762143
+      }
+    },
+    "weighting": 0.7466666666666667
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "ccb2e82f046549b48e2437582175981f"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 74.51171875
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 74.51171875
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 33.984375
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "ccb2e82f046549b48e2437582175981f"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 81.0546875
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 81.0546875
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 33.59375
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "ccb2e82f046549b48e2437582175981f"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 80.56640625
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 80.56640625
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 33.0078125
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "c58b01a61d2d408987cfefcca5045a75"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 68.9613263811748
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 70.33847701188449
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 5.808080808080807
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "ccb2e82f046549b48e2437582175981f"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 81.25
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 81.640625
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 33.251953125
+      }
+    },
+    "weighting": 0.9733333333333334
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "ccb2e82f046549b48e2437582175981f"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 81.591796875
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 81.982421875
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 32.373046875
+      }
+    },
+    "weighting": 0.8666666666666667
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "c58b01a61d2d408987cfefcca5045a75"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 66.10544217687074
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 74.13627184489017
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 5.146046241936652
+      }
+    },
+    "weighting": 0.84
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "c58b01a61d2d408987cfefcca5045a75"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 57.6602691040594
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 57.6602691040594
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 5.017325017325017
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "c58b01a61d2d408987cfefcca5045a75"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 73.41745724724447
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 78.77311989864585
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 10.518018018018015
+      }
+    },
+    "weighting": 0.8666666666666667
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "c58b01a61d2d408987cfefcca5045a75"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 61.129036520268485
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 65.25722607883733
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 5.333333333333334
+      }
+    },
+    "weighting": 0.8266666666666667
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "2c61957e0fa64453a47a60595a9e4263"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 82.95431575958929
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 84.66640483381589
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 13.413613397758164
+      }
+    },
+    "weighting": 0.8666666666666667
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "2c61957e0fa64453a47a60595a9e4263"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 80.03340730254781
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 82.41069088990824
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 12.153804595086442
+      }
+    },
+    "weighting": 0.8666666666666667
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "ccb2e82f046549b48e2437582175981f"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 79.58984375
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 79.58984375
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 32.32421875
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "2c61957e0fa64453a47a60595a9e4263"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 81.54093608552812
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 83.59576041064447
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 13.11632837973607
+      }
+    },
+    "weighting": 0.8533333333333334
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "c58b01a61d2d408987cfefcca5045a75"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 76.24183666076732
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 76.24183666076732
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 9.065105927428442
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "c58b01a61d2d408987cfefcca5045a75"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 70.24426940591503
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 73.7718743411343
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 10.592592592592592
+      }
+    },
+    "weighting": 0.8133333333333334
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "ccb2e82f046549b48e2437582175981f"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 81.396484375
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 81.396484375
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 33.59375
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "3d389a8a533843f28bbc74f8c1e6c4c8"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 34.79698340874811
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 35.10622710622711
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 11.368015414258188
+      }
+    },
+    "weighting": 0.9866666666666667
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "fea7e4073f7e4954b5d1dcc909ed93db"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 76.52157526778356
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 78.5716773647808
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 5.185185185185185
+      }
+    },
+    "weighting": 0.92
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "c58b01a61d2d408987cfefcca5045a75"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 67.75788897494861
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 77.11917711917712
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 10.054939850336268
+      }
+    },
+    "weighting": 0.8533333333333334
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "ccb2e82f046549b48e2437582175981f"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 78.759765625
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 79.638671875
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 33.30078125
+      }
+    },
+    "weighting": 0.8
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "89da58a600fb46a4b0bf3b005c671b91"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 45.207248185909584
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 46.885967731768865
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 2.5193243630117377
+      }
+    },
+    "weighting": 0.84
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "89da58a600fb46a4b0bf3b005c671b91"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 83.04160563018189
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 83.59060468230604
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 2.5193243630117377
+      }
+    },
+    "weighting": 0.8666666666666667
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "89da58a600fb46a4b0bf3b005c671b91"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 70.74704064637265
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 71.21007886281457
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 2.5193243630117377
+      }
+    },
+    "weighting": 0.92
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "ccb2e82f046549b48e2437582175981f"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 81.884765625
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 82.177734375
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 33.349609375
+      }
+    },
+    "weighting": 0.8533333333333334
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "89da58a600fb46a4b0bf3b005c671b91"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 84.58901488447925
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 85.77299462982631
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 2.5193243630117377
+      }
+    },
+    "weighting": 0.6533333333333333
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "89da58a600fb46a4b0bf3b005c671b91"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 84.28602050126577
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 84.42787255267594
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 2.5193243630117377
+      }
+    },
+    "weighting": 0.9866666666666667
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "89da58a600fb46a4b0bf3b005c671b91"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 81.61062473052317
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 85.38482040991511
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 2.5193243630117377
+      }
+    },
+    "weighting": 0.7466666666666667
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "89da58a600fb46a4b0bf3b005c671b91"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 84.3549810119546
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 84.94019147217364
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 2.5193243630117377
+      }
+    },
+    "weighting": 0.88
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "89da58a600fb46a4b0bf3b005c671b91"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 85.06332842281627
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 85.43714443186364
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 2.5193243630117377
+      }
+    },
+    "weighting": 0.76
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "e1c31ab37a794d8d853eb2b9dc2ed1d3"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 37.08354955889985
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 38.50050658561297
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 15.354090354090355
+      }
+    },
+    "weighting": 0.8666666666666667
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "e1c31ab37a794d8d853eb2b9dc2ed1d3"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 35.97878390201225
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 36.94196493557158
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 11.368015414258188
+      }
+    },
+    "weighting": 0.8266666666666667
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "e1c31ab37a794d8d853eb2b9dc2ed1d3"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 63.50833333333333
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 67.523173391494
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 15.165447579240679
+      }
+    },
+    "weighting": 0.7866666666666666
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "e1c31ab37a794d8d853eb2b9dc2ed1d3"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 67.13265277039807
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 67.13265277039807
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 15.36643026004728
+      }
+    },
+    "weighting": 0.9733333333333334
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "e1c31ab37a794d8d853eb2b9dc2ed1d3"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 54.48717948717948
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 54.48717948717948
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 14.106508875739642
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "e1c31ab37a794d8d853eb2b9dc2ed1d3"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 61.1624810408893
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 63.24041278586733
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 16.23306233062331
+      }
+    },
+    "weighting": 0.8666666666666667
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "89da58a600fb46a4b0bf3b005c671b91"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 84.05298837149806
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 84.45618590763748
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 2.5193243630117377
+      }
+    },
+    "weighting": 0.9733333333333334
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "a1a845719538418eb56f0a08f5fac8f9"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 75.48828125
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 75.48828125
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 27.1484375
+      }
+    },
+    "weighting": 0.9733333333333334
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "a1a845719538418eb56f0a08f5fac8f9"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 80.859375
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 80.908203125
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 25.634765625
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "89da58a600fb46a4b0bf3b005c671b91"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 84.01695422579893
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 84.03565779599082
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 2.5193243630117377
+      }
+    },
+    "weighting": 0.8533333333333334
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "01c12dedf37643d6b5b41528894a799c"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 81.884765625
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 81.884765625
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 33.3984375
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "e1c31ab37a794d8d853eb2b9dc2ed1d3"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 68.2520402457935
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 70.02251751643573
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 15.285301552907185
+      }
+    },
+    "weighting": 0.7866666666666666
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "01c12dedf37643d6b5b41528894a799c"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 77.783203125
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 77.83203125
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 31.54296875
+      }
+    },
+    "weighting": 0.9866666666666667
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "e1c31ab37a794d8d853eb2b9dc2ed1d3"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 66.43185005737601
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 66.45456798596811
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 15.588235294117647
+      }
+    },
+    "weighting": 0.88
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "01c12dedf37643d6b5b41528894a799c"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 84.66796875
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 84.66796875
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 34.326171875
+      }
+    },
+    "weighting": 0.9866666666666667
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "01c12dedf37643d6b5b41528894a799c"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 84.130859375
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 84.326171875
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 34.228515625
+      }
+    },
+    "weighting": 0.9466666666666667
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "e1c31ab37a794d8d853eb2b9dc2ed1d3"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 64.15136270157028
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 69.87339179810017
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 15.957516986608617
+      }
+    },
+    "weighting": 0.7733333333333333
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "01c12dedf37643d6b5b41528894a799c"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 82.51953125
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 82.51953125
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 34.1796875
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "c3f2dd712b7e4c1b9a03de9f78e9f5f1"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 79.40370031549277
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 81.7695949974848
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 6.624266144814091
+      }
+    },
+    "weighting": 0.8533333333333334
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "e1c31ab37a794d8d853eb2b9dc2ed1d3"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 65.70446204546305
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 71.02867163125413
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 14.562204192021635
+      }
+    },
+    "weighting": 0.8266666666666667
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "01c12dedf37643d6b5b41528894a799c"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 83.056640625
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 83.3984375
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 34.47265625
+      }
+    },
+    "weighting": 0.84
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "c3f2dd712b7e4c1b9a03de9f78e9f5f1"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 49.187673495393355
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 49.187673495393355
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 6.02973473799801
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "01c12dedf37643d6b5b41528894a799c"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 82.470703125
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 82.470703125
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 34.1796875
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "01c12dedf37643d6b5b41528894a799c"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 82.03125
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 82.12890625
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 34.08203125
+      }
+    },
+    "weighting": 0.9733333333333334
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "c3f2dd712b7e4c1b9a03de9f78e9f5f1"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 74.75572249929525
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 75.49972827555585
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 5.449831475239824
+      }
+    },
+    "weighting": 0.92
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "01c12dedf37643d6b5b41528894a799c"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 84.423828125
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 84.66796875
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 34.27734375
+      }
+    },
+    "weighting": 0.8933333333333333
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "c3f2dd712b7e4c1b9a03de9f78e9f5f1"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 82.85013115851608
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 83.73696131430721
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 5.478423253359315
+      }
+    },
+    "weighting": 0.9333333333333333
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "c3f2dd712b7e4c1b9a03de9f78e9f5f1"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 85.52560225938826
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 85.52560225938826
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 5.407066052227343
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "c3f2dd712b7e4c1b9a03de9f78e9f5f1"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 82.72119727499498
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 83.16183555021972
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 5.200308166409862
+      }
+    },
+    "weighting": 0.9866666666666667
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "c3f2dd712b7e4c1b9a03de9f78e9f5f1"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 79.55870053681903
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 81.5798307928196
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 5.306596814090058
+      }
+    },
+    "weighting": 0.9333333333333333
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "01145c8d80de4f778efa6178947def1e"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 72.36328125
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 72.36328125
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 13.28125
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "bcd8a1b72c164128b05c3d0feb54dc3d"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 33.46638655462185
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 34.591836734693885
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 14.824326734439094
+      }
+    },
+    "weighting": 0.88
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "01145c8d80de4f778efa6178947def1e"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 80.95703125
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 81.34765625
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 12.40234375
+      }
+    },
+    "weighting": 0.92
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "01145c8d80de4f778efa6178947def1e"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 81.884765625
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 82.666015625
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 9.1796875
+      }
+    },
+    "weighting": 0.76
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "c3f2dd712b7e4c1b9a03de9f78e9f5f1"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 85.10828537073009
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 86.27959699154859
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 4.698623635500711
+      }
+    },
+    "weighting": 0.88
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "bcd8a1b72c164128b05c3d0feb54dc3d"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 74.70759860294743
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 75.378111946533
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 14.55585435608486
+      }
+    },
+    "weighting": 0.9466666666666667
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "01145c8d80de4f778efa6178947def1e"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 79.8828125
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 80.37109375
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 12.939453125
+      }
+    },
+    "weighting": 0.8133333333333334
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "c3f2dd712b7e4c1b9a03de9f78e9f5f1"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 84.25371328855358
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 84.7775259197811
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 5.32287419079872
+      }
+    },
+    "weighting": 0.6933333333333334
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "01145c8d80de4f778efa6178947def1e"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 81.005859375
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 81.005859375
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 16.89453125
+      }
+    },
+    "weighting": 0.92
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "01145c8d80de4f778efa6178947def1e"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 80.615234375
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 80.615234375
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 13.037109375
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "bcd8a1b72c164128b05c3d0feb54dc3d"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 39.784065001456305
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 41.04980519849421
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 13.727750032014344
+      }
+    },
+    "weighting": 0.9733333333333334
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "bcd8a1b72c164128b05c3d0feb54dc3d"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 73.60476302336768
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 77.0479243526679
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 16.866479925303455
+      }
+    },
+    "weighting": 0.88
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "01145c8d80de4f778efa6178947def1e"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 77.978515625
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 80.224609375
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 13.623046875
+      }
+    },
+    "weighting": 0.7866666666666666
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "bcd8a1b72c164128b05c3d0feb54dc3d"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 62.85612535612536
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 73.8272543059777
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 14.325172630257379
+      }
+    },
+    "weighting": 0.9733333333333334
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "bcd8a1b72c164128b05c3d0feb54dc3d"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 64.17772167772168
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 73.38769573144573
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 14.648148148148147
+      }
+    },
+    "weighting": 0.84
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "bcd8a1b72c164128b05c3d0feb54dc3d"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 64.39637372564201
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 65.2134793505503
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 15.422077922077923
+      }
+    },
+    "weighting": 0.9066666666666666
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "01145c8d80de4f778efa6178947def1e"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 76.904296875
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 77.24609375
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 14.892578125
+      }
+    },
+    "weighting": 0.7466666666666667
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "bcd8a1b72c164128b05c3d0feb54dc3d"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 65.57539682539682
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 75.1973951973952
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 16.946859903381643
+      }
+    },
+    "weighting": 0.8933333333333333
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "01145c8d80de4f778efa6178947def1e"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 78.80859375
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 78.80859375
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 13.76953125
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "01145c8d80de4f778efa6178947def1e"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 80.76171875
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 81.640625
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 16.455078125
+      }
+    },
+    "weighting": 0.84
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "76fbbc617c504392ab265dd18da009f1"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 74.560546875
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 74.560546875
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 33.984375
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "76fbbc617c504392ab265dd18da009f1"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 82.32421875
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 82.421875
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 33.984375
+      }
+    },
+    "weighting": 0.9733333333333334
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "bcd8a1b72c164128b05c3d0feb54dc3d"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 70.54122304122305
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 78.01859673034703
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 17.475692533480093
+      }
+    },
+    "weighting": 0.84
+  },
+  {
+    "task": "acl_arc",
+    "other_task": "acl_arc",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "acl_arc",
+      "train_run_uuid": "bcd8a1b72c164128b05c3d0feb54dc3d"
+    },
+    "original_score": {
+      "acl_arc": {
+        "f1": 68.207232368878
+      }
+    },
+    "merged_score": {
+      "acl_arc": {
+        "f1": 76.2890580847119
+      }
+    },
+    "donor_body_score": {
+      "acl_arc": {
+        "f1": 17.469790745652816
+      }
+    },
+    "weighting": 0.7333333333333333
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "33b7d65a003c4b21b298c29d07c0c32c"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 45.606957847154675
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 45.82918716861769
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 3.7656297114834256
+      }
+    },
+    "weighting": 0.9333333333333333
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "33b7d65a003c4b21b298c29d07c0c32c"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 81.1745633294441
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 81.1745633294441
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 9.454076955842083
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "33b7d65a003c4b21b298c29d07c0c32c"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 72.41688373485282
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 73.92827109344296
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 7.429251099201838
+      }
+    },
+    "weighting": 0.8933333333333333
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "33b7d65a003c4b21b298c29d07c0c32c"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 79.82953874295265
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 79.82953874295265
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 10.45656855707107
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "33b7d65a003c4b21b298c29d07c0c32c"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 77.77192071299328
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 77.77192071299328
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 7.914266184942877
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "33b7d65a003c4b21b298c29d07c0c32c"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 81.5413843363742
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 82.06460172768736
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 8.319588380435443
+      }
+    },
+    "weighting": 0.9466666666666667
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "33b7d65a003c4b21b298c29d07c0c32c"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 86.41372083362398
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 86.41372083362398
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 6.751181978307221
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "33b7d65a003c4b21b298c29d07c0c32c"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 84.02976722667003
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 84.43142205200293
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 6.87920046747479
+      }
+    },
+    "weighting": 0.9333333333333333
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "33b7d65a003c4b21b298c29d07c0c32c"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 78.7928757684233
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 80.76629694023204
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 5.637405469795587
+      }
+    },
+    "weighting": 0.9733333333333334
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "sci_erc",
+      "train_run_uuid": "33b7d65a003c4b21b298c29d07c0c32c"
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 82.63394749246076
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 82.75697788502602
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 6.9530055611988395
+      }
+    },
+    "weighting": 0.8533333333333334
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "76fbbc617c504392ab265dd18da009f1"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 83.154296875
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 83.251953125
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 33.984375
+      }
+    },
+    "weighting": 0.96
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "76fbbc617c504392ab265dd18da009f1"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 81.787109375
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 82.2265625
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 33.984375
+      }
+    },
+    "weighting": 0.88
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "76fbbc617c504392ab265dd18da009f1"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 83.88671875
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 84.130859375
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 33.984375
+      }
+    },
+    "weighting": 0.84
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "76fbbc617c504392ab265dd18da009f1"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 83.88671875
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 84.08203125
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 33.984375
+      }
+    },
+    "weighting": 0.84
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "76fbbc617c504392ab265dd18da009f1"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 81.640625
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 81.640625
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 33.984375
+      }
+    },
+    "weighting": 1.0
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "76fbbc617c504392ab265dd18da009f1"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 81.201171875
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 81.34765625
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 33.984375
+      }
+    },
+    "weighting": 0.9866666666666667
+  },
+  {
+    "task": "chemprot",
+    "other_task": "chemprot",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "chemprot",
+      "train_run_uuid": "76fbbc617c504392ab265dd18da009f1"
+    },
+    "original_score": {
+      "chemprot": {
+        "f1": 85.009765625
+      }
+    },
+    "merged_score": {
+      "chemprot": {
+        "f1": 85.64453125
+      }
+    },
+    "donor_body_score": {
+      "chemprot": {
+        "f1": 33.984375
+      }
+    },
+    "weighting": 0.84
+  }
+]

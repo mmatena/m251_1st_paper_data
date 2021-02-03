@@ -1,0 +1,127 @@
+[
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 0,
+    "hyperparams": {
+      "task": "sci_erc",
+      "target_ckpt_index": 8
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 83.6197230272372
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 84.83461635856436
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 1.7119244391971662
+      }
+    },
+    "weighting": 0.84
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 1,
+    "hyperparams": {
+      "task": "sci_erc",
+      "target_ckpt_index": 8
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 85.09688016349092
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 85.75766276316969
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 1.7119244391971662
+      }
+    },
+    "weighting": 0.88
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 2,
+    "hyperparams": {
+      "task": "sci_erc",
+      "target_ckpt_index": 8
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 84.7839487734804
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 84.7839487734804
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 1.7119244391971662
+      }
+    },
+    "weighting": 0.9866666666666667
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 3,
+    "hyperparams": {
+      "task": "sci_erc",
+      "target_ckpt_index": 8
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 83.88725714117254
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 85.11257603376578
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 1.7119244391971662
+      }
+    },
+    "weighting": 0.8666666666666667
+  },
+  {
+    "task": "sci_erc",
+    "other_task": "sci_erc",
+    "trial_index": 4,
+    "hyperparams": {
+      "task": "sci_erc",
+      "target_ckpt_index": 8
+    },
+    "original_score": {
+      "sci_erc": {
+        "f1": 85.41108935678659
+      }
+    },
+    "merged_score": {
+      "sci_erc": {
+        "f1": 87.21402120640633
+      }
+    },
+    "donor_body_score": {
+      "sci_erc": {
+        "f1": 1.7119244391971662
+      }
+    },
+    "weighting": 0.7466666666666667
+  }
+]

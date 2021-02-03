@@ -1,0 +1,22 @@
+[
+  {
+    "target_task": "rte",
+    "donor_task": "mnli",
+    "original_score": {
+      "rte": {
+        "accuracy": 79.06137184115524
+      }
+    },
+    "merged_score": {
+      "rte": {
+        "accuracy": 80.50541516245488
+      }
+    },
+    "donor_body_score": {
+      "rte": {
+        "accuracy": 53.068592057761734
+      }
+    },
+    "weighting": 0.58
+  }
+]
